@@ -63,7 +63,3 @@ Expected output
 []
 []
 ```
-
-
-
-```
