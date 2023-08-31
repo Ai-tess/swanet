@@ -45,7 +45,7 @@ Select any of the synsets above to query its synonym
 
 ```python
 print("=======single object results===========")
-print (sw[0].synonym) #get synonym for object in index 0
+print(sw[0].synonym) #get synonym for object in index 0
 
 print("=======loop results====================")
 for synobj in sw: #loop through to get synset of all object
@@ -66,11 +66,17 @@ Expected output
 To get the hypernym of an object, we do the same as above, rather than accessing the synonym we access the hypernyms. Let's get the hypernym of the last index.
 
 ```python
-print (sw[-1].synonym) #get hypernym for object in the last index
+print(sw[-1].synonym) #get hypernym for object in the last index
 ```
 Expected output
 
 ```python
 Synset(kitu kamili.n.1)
 ```
+To get other relations such as hyponyms access the below variable from the object
+1. hyponyms -> a list holding all the objects relating to the object.
+2. synonym  -> get all the synonym of that object
+3. hpernyms -> an object
+4. ngeli    -> get the noun class of that object
+5. lemma    -> get the root word of that object
 
