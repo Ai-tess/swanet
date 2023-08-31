@@ -44,22 +44,33 @@ Expected output
 Select any of the synsets above to query its synonym
 
 ```python
-print("=======single object===========")
+print("=======single object results===========")
 print (sw[0].synonym) #get synonym for object in index 0
 
-print("=======loop results===========")
+print("=======loop results====================")
 for synobj in sw: #loop through to get synset of all object
     print(synobj.synonym)
 ```
 Expected output 
 
 ```python
-=======single object=====
+=======single object results=====
 [Synset(kitu chake.n.1)]
 
-=======loop results======
+=======loop results==============
 [Synset(kitu chake.n.1)]
 []
 []
 []
 ```
+To get the hypernym of an object, we do the same as above, rather than accessing the synonym we access the hypernyms. Let's get the hypernym of the last index.
+
+```python
+print (sw[-1].synonym) #get hypernym for object in the last index
+```
+Expected output
+
+```python
+Synset(kitu kamili.n.1)
+```
+
