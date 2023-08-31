@@ -20,7 +20,7 @@ sw = wordent.load()
 Expected results NB(The number of synsets will continue growing)
 
 ```python
-#poS            #synsets        #word senses    #words
+#Pos           #synsets        #word senses    #words
 Nouns           210             311             256
 Verbs           48              121             101
 Adjectives      3               1               1
@@ -39,5 +39,31 @@ Expected output
 
 ```python
 [Synset(kitu.n.4), Synset(kitu.n.2), Synset(kitu.n.3), Synset(kitu.n.1)]
+
+```
+Select any of the synsets above to query its synonym
+
+```python
+print("=======single object===========")
+print (sw[0].synonym) #get synonym for object in index 0
+
+print("=======loop results===========")
+for synobj in sw: #loop through to get synset of all object
+    print(synobj.synonym)
+```
+Expected output 
+
+```python
+=======single object=====
+[Synset(kitu chake.n.1)]
+
+=======loop results======
+[Synset(kitu chake.n.1)]
+[]
+[]
+[]
+```
+
+
 
 ```
