@@ -213,7 +213,7 @@ class Wordnet:
         synonym = results['SYNOMYM'][index]
 
         for count, syn in enumerate(synonym.keys()):
-            s1, s2 ='n', 'n' #self.check_ngeli(index, results=results, ctx=count+1)
+            s1, s2 = self.check_ngeli(index, results=results, ctx=count+1)
             new_obj = copy.copy(obj)
             new_obj.word = syn + '.' + pos + '.' + synonym.get(syn)
             new_obj.ngeli = s1
@@ -337,11 +337,11 @@ class Wordnet:
 
         self.total_words = noun + verb + adj + adv
 
-        # print("PoS\t\t#synsets\t#word senses\t#words")
-        # print(f"Nouns\t\t{len(words_n)}\t\t{len(noun)}\t\t{len(set(noun))}")
-        # print(f"Verbs\t\t{len(words_v)}\t\t{len(verb)}\t\t{len(set(verb))}")
-        # print(f"Adjectives\t{len(words_a)}\t\t{len(adj)}\t\t{len(set(adj))}")
-        # print(f"Adverbs\t\t{len(words_b)}\t\t{len(adv)}\t\t{len(set(adv))}")
+        print("#poS\t\t#synsets\t#word senses\t#words")
+        print(f"Nouns\t\t{len(words_n)}\t\t{len(noun)}\t\t{len(set(noun))}")
+        print(f"Verbs\t\t{len(words_v)}\t\t{len(verb)}\t\t{len(set(verb))}")
+        print(f"Adjectives\t{len(words_a)}\t\t{len(adj)}\t\t{len(set(adj))}")
+        print(f"Adverbs\t\t{len(words_b)}\t\t{len(adv)}\t\t{len(set(adv))}")
 
 def check_string(word):
     if word is None:
