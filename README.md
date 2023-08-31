@@ -76,7 +76,7 @@ Synset(kitu kamili.n.1)
 To get other relations such as hyponyms access the below variable from the object
 1. hyponyms -> a list holding all the objects relating to the object.
 2. synonym  -> get all the synonym of that object
-3. hpernyms -> an object
+3. hypernyms -> an object
 4. ngeli    -> get the noun class of that object
 5. lemma    -> get the root word of that object
 
