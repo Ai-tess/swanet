@@ -75,7 +75,7 @@ Expected output
 ```python
 Synset(kitu kamili.n.1) Synset(kitu kamili.n.1)
 ```
-To get other relations such as hyponyms either in Swahili or English access, see the table below variable from the object
+To get other relations such as hyponyms either in Swahili or English access, see the table below:
 
 | English | Swahili |
 | --- | --- |
