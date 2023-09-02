@@ -86,4 +86,6 @@ To get other relations such as hyponyms either in Swahili or English access, see
 | plural  | wingi |
 | definition  | maana |
 | usage  | mfano |
+| word  | neno |
 | lemma  | _ |
+
