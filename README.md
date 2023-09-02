@@ -21,9 +21,9 @@ Expected results NB(The number of synsets will continue growing)
 
 ```python
 #Pos           #synsets        #word senses    #words
-Nouns           210             311             256
-Verbs           48              121             101
-Adjectives      3               1               1
+Nouns           236             347             277
+Verbs           266             367             330
+Adjectives      5               2               2
 Adverbs         0               0               0
 
 ```
@@ -75,13 +75,15 @@ Expected output
 ```python
 Synset(kitu kamili.n.1) Synset(kitu kamili.n.1)
 ```
-To get other relations such as hyponyms either in Swahili or English access the below variable from the object
-1. hyponyms / hiponimu   -> a list holding all the objects relating to the word.
-2. synonym / visawe      -> get all the synonym of that object
-3. hypernyms / hipanimu  -> an object
-4. noun_class / ngeli    -> get the noun class of that object
-5. plural / wingi        -> get the plural of the word #not implemented yet
-6. definition /maana     -> get the definition of the word
-7. usage / mfano         -> get an example sentence where the word has been used
-8. lemma                 -> get the root word of that object
+To get other relations such as hyponyms either in Swahili or English access, see the table below variable from the object
 
+| English | Swahili |
+| --- | --- |
+| hyponyms | hiponimu |
+| synonym  | visawe |
+| hypernyms|hipanimu |
+| noun_class  | ngeli |
+| plural  | wingi |
+| definition  | maana |
+| usage  | mfano |
+| lemma  | _ |
