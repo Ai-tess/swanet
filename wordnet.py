@@ -1,13 +1,3 @@
-""""
-    'synonyms':'visawe',
-    'antonyms':'kinyume',
-    'hypernym':'',
-    'hyponym':'vipengele',
-    'noun_class':'ngeli',
-    'plural':'wingi',
-"""
-
-
 import gc
 import re
 import copy
@@ -49,6 +39,18 @@ class Synsetobj:
         self.hyponyms = Synsetobj(hId, hword, hngeli, hplural,
                         hlemma, hdefinition, husage,synonym)
         #self.hyponyms.append(self.hyponym)
+
+    def set_names(self):
+        """access memory of the variable"""
+        self.visawe = self.synonym
+        #self.kinyume = self.antonyms
+        self.hipanimu = self.hypernyms
+        self.hiponimu = self.hyponyms
+        self.noun_class = self.ngeli
+        self.wingi = self.plural
+        self.neno = self.word
+        self.maana =self.definition
+        self.mfano = self.usage
         
 class Wordnet:
     """loads query synset, and find
@@ -186,6 +188,7 @@ class Wordnet:
                     syns.hyponyms.synonym = new_hobj
                     hyp.append(syns.hyponyms)
                 syns.hyponyms = hyp
+                syns.set_names()
             final_res.append(syns)
         self.results.clear()
         self.hypernyms.clear()
