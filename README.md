@@ -21,8 +21,8 @@ Expected results NB(The number of synsets will continue growing)
 
 ```python
 #Pos           #synsets        #word senses    #words
-Nouns           236             347             277
-Verbs           266             367             330
+Nouns           354             500             415
+Verbs           272             373             334
 Adjectives      5               2               2
 Adverbs         0               0               0
 
