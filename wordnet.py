@@ -101,8 +101,8 @@ class Wordnet:
                     xh = self.hypernyms
                 self.results['hypernyms'].append(xh)
                 self.get_hyponyms(synset_parent)
-        except Exception as e:
-            print(f'word {word} -> Error: {e}')
+        except Exception as err:
+            print(f'word {word} -> Error: {err}')
             raise
             
         return self.results
@@ -121,6 +121,7 @@ class Wordnet:
                         self.get_details(sn_parent, value, self.hypernyms)
 
     def get_hyponyms(self, synset_parent):
+        """get hyponyms"""
         for child in synset_parent.getchildren():
             if child.tag == 'ID':
                 search = f"SYNSET/ILR/[.='{child.text}']"
@@ -133,7 +134,7 @@ class Wordnet:
         get synset
         """
         final_res = []
-        self.find(word, pos=pos)
+        self.find(correct_apost(word, False), pos=pos)
         #self.hypernyms.clear()
         for index in range(0, len(self.results['SYN'])):
             words = check_string(self.results['SYN'][index]) + '.' + check_string(self.results['POS'][index]) + '.' + check_string(self.results['SENSE'][index])
@@ -141,7 +142,7 @@ class Wordnet:
             s1, s2 = self.check_ngeli(index, results=self.results)
 
             syns = Synsetobj(Id=self.results['ID'][index],
-                             word=words,
+                             word=correct_apost(words, True),
                              usage=self.results['USAGE'][index],
                              ngeli=s1,
                              plural=s2,
@@ -158,7 +159,7 @@ class Wordnet:
                 s1, s2 = self.check_ngeli(index, results=self.hypernyms)
 
                 syns.set_hypernym(hId=self.hypernyms['ID'][0],
-                                  hword=words,
+                                  hword=correct_apost(words, True),
                                   husage=self.hypernyms['USAGE'][0],
                                   hngeli=s1,
                                   hplural=s2,
@@ -177,7 +178,7 @@ class Wordnet:
                     s1, s2 = self.check_ngeli(hindex, self.hyponyms)
 
                     syns.set_hyponym(hId=self.hyponyms['ID'][hindex],
-                                      hword=words,
+                                      hword=correct_apost(words, True),
                                       husage=self.hyponyms['USAGE'][hindex],
                                       hngeli=s1,
                                       hplural=s2,
@@ -350,6 +351,22 @@ def check_string(word):
     if word is None:
         word = '<Unk>'
     return word
+
+def correct_apost(word, show=False):
+    """correct apostrophe by placing
+    apostrophe where necessary and removing
+    them when quering for synsets
+    """
+    if show is True:
+        if 'ng ' in word:
+            return word.replace(' ', "'")
+        else:
+            return word
+    else:
+        if "ng'" in word:
+            return word.replace("'", ' ')
+        else:
+            return word
 
 def open_file(source):
     """
