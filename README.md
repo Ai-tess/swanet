@@ -12,7 +12,7 @@ Currently, the library supports viewing synonyms (Visawe), hypernyms, hyponyms, 
 Load wordnet from an XML file (there is a local file passed as a default argument), and it prints basic statistics.
 
 ```python
-import wordnet
+from swanet import wordnet
 
 sw = wordent.load()
 
