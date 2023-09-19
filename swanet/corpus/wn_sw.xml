@@ -1,0 +1,4834 @@
+<vomondi_wn_sw>
+<SYNSET>
+  <SYNONYM/>
+  <BCS/>
+  <CREATED>vomondi 2023-08-15 11:26:24</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>66</ID>
+  <DEF/>
+  <STAMP>vomondi 2023-08-15 11:26:24</STAMP>
+  <VERSION>148</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <SYNONYM/>
+  <BCS/>
+  <CREATED>vomondi 2023-08-15 19:10:24</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>88</ID>
+  <DEF/>
+  <STAMP>vomondi 2023-08-15 19:10:24</STAMP>
+  <VERSION>194</VERSION>
+  <NL>false</NL>
+  <POS>a</POS>
+  <ILR type="hypernym">eng-30-00021265-n</ILR>
+</SYNSET>
+<SYNSET>
+  <SYNONYM/>
+  <SNOTE>Ngeli (ki-/vi-)</SNOTE>
+  <SNOTE>wingi (plural) - vipande</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-14 16:18:40</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>50</ID>
+  <DEF>hutumika katika kuelezea ukubwa na unene wa umbo: ~ cha mtu la mtu</DEF>
+  <STAMP>vomondi 2023-08-14 16:18:40</STAMP>
+  <VERSION>127</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <SYNONYM/>
+  <BCS/>
+  <CREATED>vomondi 2023-08-15 18:54:34</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>87</ID>
+  <DEF/>
+  <STAMP>vomondi 2023-08-15 18:54:34</STAMP>
+  <VERSION>188</VERSION>
+  <NL>false</NL>
+  <POS>a</POS>
+  <ILR type="hypernym"/>
+</SYNSET>
+<SYNSET>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">Mawasiliano ya kutazama</LITERAL>
+    <WORD>Mawasiliano</WORD>
+    <WORD>ya</WORD>
+    <WORD>kutazama</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-00033020-n</ILR>
+  <POS>n</POS>
+  <ID>248</ID>
+  <DEF>ni mawasiliano kwa njia ya vielelezo. Ni kupitisha mawazo na habari katika aina ambazo zinaweza kusomwa au kutazamwa. Kimsingi yanahusishwa na vipimo vya aina mbili, na yanahusisha: ishara, tipografia, uchoraji, miundo ya grafia, mchoro, rangi na rasilimali za kielektroniki. Mawasiliano hayo hutegemea tu kutazama. Ni aina ya mawasiliano ilijengwa kwenye wazo kwamba ujumbe unaoonekana ukiunganishwa na maandishi huwa na uwezo mkubwa wa kutaarifu, kuelimisha au kumshawishi mtu. Ni mawasiliano kwa kuwasilisha taarifa kupitia vielelezo.</DEF>
+  <STAMP>vomondi 2023-08-27 17:52:11</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>748</VERSION>
+  <CREATED>vomondi 2023-08-27 17:52:11</CREATED>
+</SYNSET>
+<SYNSET>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">Mungu</LITERAL>
+    <WORD>Mungu</WORD>
+  </SYNONYM>
+  <BCS/>
+  <POS>n</POS>
+  <ID>eng-30-09536058-n</ID>
+  <DEF>mwenye kuumba ulimwengu na vyote vilimo ndani yake</DEF>
+  <STAMP>vomondi 2023-08-30 06:37:05</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>857</VERSION>
+</SYNSET>
+<SYNSET>
+  <DOMAIN/>
+  <USAGE>Paka na panya walifanyika hasimu.</USAGE>
+  <VERSION>62</VERSION>
+  <ID>15</ID>
+  <POS>n</POS>
+  <SYNONYM>
+    <LITERAL lnote="" sense="1">adui</LITERAL>
+    <LITERAL lnote="" sense="1">hasimu</LITERAL>
+    <WORD>adui</WORD>
+    <WORD>hasimu</WORD>
+  </SYNONYM>
+  <BCS/>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <CREATED>vomondi 2023-07-20 18:10:26</CREATED>
+  <STAMP>vomondi 2023-07-20 18:10:26</STAMP>
+  <DEF>mtu au kiumbe anayemfanyia mtu mwingine uovu.</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>225</ID>
+  <BCS/>
+  <ILR type="hypernym">eng-30-13809207-n</ILR>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <USAGE>nusu (1/2), theluthi (1/3), robo (1/4)</USAGE>
+  <STAMP>vomondi 2023-08-26 20:33:20</STAMP>
+  <DOMAIN/>
+  <VERSION>685</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">akisami</LITERAL>
+    <WORD>akisami</WORD>
+  </SYNONYM>
+  <DEF>tarakimu isyo kamili</DEF>
+  <CREATED>vomondi 2023-08-26 20:33:20</CREATED>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>ala</WORD>
+    <LITERAL sense="1" lnote="">ala</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-17 00:06:27</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-03574816-n</ID>
+  <DEF>zana ya kufanyia kitu au kazi</DEF>
+  <STAMP>vomondi 2023-08-17 00:06:27</STAMP>
+  <VERSION>333</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+  <ILR type="hypernym">eng-30-03183080-n</ILR>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">alama</LITERAL>
+    <WORD>alama</WORD>
+  </SYNONYM>
+  <USAGE>hakuna hata alama</USAGE>
+  <BCS/>
+  <POS>n</POS>
+  <ID>eng-30-05765415-n</ID>
+  <DEF>mchoro au kitu cha kutambulisha kitu</DEF>
+  <STAMP>vomondi 2023-08-27 07:48:29</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>707</VERSION>
+  <CREATED>vomondi 2023-08-27 07:48:29</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-00028651-n</ID>
+  <BCS/>
+  <ILR type="hypernym">eng-30-00024264-n</ILR>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-24 19:32:41</STAMP>
+  <DOMAIN/>
+  <VERSION>582</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">anga</LITERAL>
+    <LITERAL sense="1" lnote="">mbingu</LITERAL>
+    <LITERAL sense="" lnote="">falaka</LITERAL>
+    <WORD>anga</WORD>
+    <WORD>mbingu</WORD>
+    <WORD>falaka</WORD>
+  </SYNONYM>
+  <DEF>uwazi ulioko juu ya dunia</DEF>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">ardhi</LITERAL>
+    <WORD>ardhi</WORD>
+  </SYNONYM>
+  <BCS/>
+  <POS>n</POS>
+  <ID>eng-30-09334396-n</ID>
+  <DEF>nchi kavu</DEF>
+  <STAMP>vomondi 2023-08-27 21:15:59</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>780</VERSION>
+</SYNSET>
+<SYNSET>
+  <ID>217</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-25 17:23:53</STAMP>
+  <DOMAIN/>
+  <VERSION>650</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">arifu</LITERAL>
+    <LITERAL sense="1" lnote="">julisha</LITERAL>
+    <LITERAL sense="1" lnote="">ripoti</LITERAL>
+    <WORD>arifu</WORD>
+    <WORD>julisha</WORD>
+    <WORD>ripoti</WORD>
+  </SYNONYM>
+  <DEF>julisha mtu habari au jambo fulani</DEF>
+  <CREATED>vomondi 2023-08-25 17:23:53</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-07326557-n</ID>
+  <BCS/>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SNOTE>Ngeli (ki-/vi-) (vy-)</SNOTE>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SNOTE>Ngeli (li-/ya-) (ma-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-26 21:06:58</STAMP>
+  <DOMAIN/>
+  <VERSION>698</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="2" lnote="">asili</LITERAL>
+    <LITERAL sense="1" lnote="">chanzo</LITERAL>
+    <LITERAL sense="1" lnote="">awali</LITERAL>
+    <LITERAL sense="1" lnote="">chimbuko</LITERAL>
+    <WORD>asili</WORD>
+    <WORD>chanzo</WORD>
+    <WORD>awali</WORD>
+    <WORD>chimbuko</WORD>
+  </SYNONYM>
+  <DEF>mwanzo wa mtu au kitu</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-06740402-n</ID>
+  <BCS/>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-26 20:44:45</STAMP>
+  <DOMAIN/>
+  <VERSION>686</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">asili</LITERAL>
+    <WORD>asili</WORD>
+  </SYNONYM>
+  <DEF>kiini cha jambo</DEF>
+  <CREATED>vomondi 2023-08-26 20:44:45</CREATED>
+</SYNSET>
+<SYNSET>
+  <DOMAIN/>
+  <USAGE>Leo tulikutana na baba wa taifa (rais) kwenye ikulu</USAGE>
+  <VERSION>64</VERSION>
+  <ID>17</ID>
+  <POS>n</POS>
+  <SYNONYM>
+    <LITERAL lnote="" sense="2">baba</LITERAL>
+    <LITERAL lnote="" sense="1">rais</LITERAL>
+    <WORD>baba</WORD>
+    <WORD>rais</WORD>
+  </SYNONYM>
+  <BCS/>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <CREATED>vomondi 2023-07-20 18:13:38</CREATED>
+  <STAMP>vomondi 2023-07-20 18:13:38</STAMP>
+  <DEF>anaye simamia nchi au kiongizi wa nchi</DEF>
+</SYNSET>
+<SYNSET>
+  <DOMAIN/>
+  <USAGE>Leo baba alikuja shuleni.</USAGE>
+  <VERSION>63</VERSION>
+  <ID>16</ID>
+  <POS>n</POS>
+  <SYNONYM>
+    <LITERAL lnote="" sense="1">baba</LITERAL>
+    <LITERAL lnote="" sense="1">abu</LITERAL>
+    <WORD>baba</WORD>
+    <WORD>abu</WORD>
+  </SYNONYM>
+  <BCS/>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <CREATED>vomondi 2023-07-20 18:12:19</CREATED>
+  <STAMP>vomondi 2023-07-20 18:12:19</STAMP>
+  <DEF>mzazi wa kiume.</DEF>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>badilika</WORD>
+    <LITERAL sense="1" lnote="">badilika</LITERAL>
+  </SYNONYM>
+  <BCS/>
+  <CREATED>vomondi 2023-08-17 13:45:41</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-00123170-v</ID>
+  <DEF/>
+  <STAMP>vomondi 2023-08-17 13:45:41</STAMP>
+  <VERSION>394</VERSION>
+  <NL>false</NL>
+  <POS>v</POS>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>barabara</WORD>
+    <WORD>njia</WORD>
+    <WORD>kuu</WORD>
+    <LITERAL sense="1" lnote="">barabara</LITERAL>
+    <LITERAL sense="1" lnote="">njia kuu</LITERAL>
+  </SYNONYM>
+  <SNOTE/>
+  <BCS/>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>80</ID>
+  <DEF>njia kuu</DEF>
+  <STAMP>vomondi 2023-08-15 14:10:23</STAMP>
+  <VERSION>171</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+  <ILR type="hypernym">61</ILR>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>bidhaa</WORD>
+    <WORD>kifundiro</WORD>
+    <WORD>mali</WORD>
+    <WORD>vitu</WORD>
+    <WORD>vya</WORD>
+    <WORD>biashara</WORD>
+    <LITERAL sense="1" lnote="">bidhaa</LITERAL>
+    <LITERAL sense="1" lnote="">kifundiro</LITERAL>
+    <LITERAL sense="1" lnote="">mali</LITERAL>
+    <LITERAL sense="1" lnote="">vitu vya biashara</LITERAL>
+  </SYNONYM>
+  <SNOTE/>
+  <BCS/>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-03076708-n</ID>
+  <DEF>vitu vya kufanyia biashara. yaani viuzwavyo na vinunuliwavyo</DEF>
+  <STAMP>vomondi 2023-08-16 21:25:32</STAMP>
+  <VERSION>327</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+  <ILR type="hypernym">eng-30-00021939-n</ILR>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>bidhaa</WORD>
+    <WORD>za</WORD>
+    <WORD>walaji</WORD>
+    <WORD>bidhaa</WORD>
+    <WORD>za</WORD>
+    <WORD>watumiaji</WORD>
+    <LITERAL sense="1" lnote="">bidhaa za walaji</LITERAL>
+    <LITERAL sense="1" lnote="">bidhaa za watumiaji</LITERAL>
+  </SYNONYM>
+  <BCS/>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-03093574-n</ID>
+  <DEF>bidhaa zilizokusudiwa kwa matumizi au ulaji</DEF>
+  <STAMP>vomondi 2023-08-16 21:18:15</STAMP>
+  <VERSION>326</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+  <ILR type="hypernym">eng-30-03076708-n</ILR>
+</SYNSET>
+<SYNSET>
+  <ID>145</ID>
+  <BCS/>
+  <ILR type="near_synonym">eng-30-01156834-v</ILR>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-21 13:04:27</STAMP>
+  <DOMAIN/>
+  <VERSION>463</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">bugia</LITERAL>
+    <WORD>bugia</WORD>
+  </SYNONYM>
+  <DEF>tupa chakula mdomoni na kula kwa haraka</DEF>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>chakula</WORD>
+    <LITERAL sense="1" lnote="">chakula</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (ki-/vi-)</SNOTE>
+  <SNOTE>wingi (plural) - vyakula</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-15 19:30:48</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-00021265-n</ID>
+  <DEF>kitu chochote kinacholiwa</DEF>
+  <STAMP>vomondi 2023-08-15 19:30:48</STAMP>
+  <VERSION>206</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="3" lnote="">chata</LITERAL>
+    <WORD>chata</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-06470073-n</ILR>
+  <POS>n</POS>
+  <ID>eng-30-06471737-n</ID>
+  <DEF>maandiko rasmi ya serikali kama mapatano</DEF>
+  <STAMP>vomondi 2023-08-27 08:26:25</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>720</VERSION>
+</SYNSET>
+<SYNSET>
+  <ID>132</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-21 11:15:29</STAMP>
+  <DOMAIN/>
+  <VERSION>429</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="3" lnote="">chochea</LITERAL>
+    <LITERAL sense="1" lnote="">chokoza</LITERAL>
+    <LITERAL sense="1" lnote="">kasirisha</LITERAL>
+    <WORD>chochea</WORD>
+    <WORD>chokoza</WORD>
+    <WORD>kasirisha</WORD>
+  </SYNONYM>
+  <DEF>sababisha ugomvi, tia ugomvi; tia moto; tia hamaki; tia hamu au shauku ya kufanya kazi</DEF>
+  <CREATED>vomondi 2023-08-21 11:15:29</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>131</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-21 11:12:40</STAMP>
+  <DOMAIN/>
+  <VERSION>428</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">chochea</LITERAL>
+    <WORD>chochea</WORD>
+  </SYNONYM>
+  <DEF>sogezasogeza au gusagusa kwa kijiti</DEF>
+  <CREATED>vomondi 2023-08-21 11:12:40</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>136</ID>
+  <BCS/>
+  <ILR type=""/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-21 12:05:39</STAMP>
+  <DOMAIN/>
+  <VERSION>447</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="4" lnote="">chukua</LITERAL>
+    <LITERAL sense="1" lnote="">enda na</LITERAL>
+    <LITERAL sense="1" lnote="">iba</LITERAL>
+    <LITERAL sense="1" lnote="">kwepua</LITERAL>
+    <LITERAL sense="1" lnote="">poka</LITERAL>
+    <LITERAL sense="1" lnote="">pokonya</LITERAL>
+    <LITERAL sense="1" lnote="">pora</LITERAL>
+    <LITERAL sense="1" lnote="">chopoa</LITERAL>
+    <LITERAL sense="1" lnote="">nyang'anya</LITERAL>
+    <LITERAL sense="1" lnote="">nyakua</LITERAL>
+    <LITERAL sense="1" lnote="">bokora</LITERAL>
+    <LITERAL sense="1" lnote="">poa</LITERAL>
+    <LITERAL sense="1" lnote="">bekua</LITERAL>
+    <LITERAL sense="1" lnote="">ghusubu</LITERAL>
+    <LITERAL sense="1" lnote="">baka</LITERAL>
+    <WORD>chukua</WORD>
+    <WORD>enda</WORD>
+    <WORD>na</WORD>
+    <WORD>iba</WORD>
+    <WORD>kwepua</WORD>
+    <WORD>poka</WORD>
+    <WORD>pokonya</WORD>
+    <WORD>pora</WORD>
+    <WORD>chopoa</WORD>
+    <WORD>nyang'anya</WORD>
+    <WORD>nyakua</WORD>
+    <WORD>bokora</WORD>
+    <WORD>poa</WORD>
+    <WORD>bekua</WORD>
+    <WORD>ghusubu</WORD>
+    <WORD>baka</WORD>
+  </SYNONYM>
+  <DEF>fanya kuwa mali ya; enda na</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>141</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <USAGE>kazi hii itachukua saa mbili kumalizika</USAGE>
+  <STAMP>vomondi 2023-08-21 12:17:43</STAMP>
+  <DOMAIN/>
+  <VERSION>452</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="9" lnote="">chukua</LITERAL>
+    <LITERAL sense="1" lnote="">dumu</LITERAL>
+    <LITERAL sense="1" lnote="">kaa</LITERAL>
+    <LITERAL sense="1" lnote="">endelea</LITERAL>
+    <LITERAL sense="1" lnote="">fululiza</LITERAL>
+    <WORD>chukua</WORD>
+    <WORD>dumu</WORD>
+    <WORD>kaa</WORD>
+    <WORD>endelea</WORD>
+    <WORD>fululiza</WORD>
+  </SYNONYM>
+  <DEF>maliza muda fulani</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>137</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-21 12:11:58</STAMP>
+  <DOMAIN/>
+  <VERSION>450</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="5" lnote="">chukua</LITERAL>
+    <LITERAL sense="1" lnote="">nyanyua</LITERAL>
+    <LITERAL sense="1" lnote="">beba</LITERAL>
+    <LITERAL sense="1" lnote="">himili</LITERAL>
+    <LITERAL sense="1" lnote="">pagaa</LITERAL>
+    <LITERAL sense="1" lnote="">twika</LITERAL>
+    <LITERAL sense="1" lnote="">yongoa</LITERAL>
+    <WORD>chukua</WORD>
+    <WORD>nyanyua</WORD>
+    <WORD>beba</WORD>
+    <WORD>himili</WORD>
+    <WORD>pagaa</WORD>
+    <WORD>twika</WORD>
+    <WORD>yongoa</WORD>
+  </SYNONYM>
+  <DEF>beba mzigo kichwani, begani au kwenye hamali</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>139</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <USAGE>kua uje unichukue kama nilivyoko</USAGE>
+  <STAMP>vomondi 2023-08-21 12:09:05</STAMP>
+  <DOMAIN/>
+  <VERSION>449</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="7" lnote="">chukua</LITERAL>
+    <LITERAL sense="1" lnote="">hudumia</LITERAL>
+    <LITERAL sense="1" lnote="">saidia</LITERAL>
+    <LITERAL sense="1" lnote="">ruzuki</LITERAL>
+    <WORD>chukua</WORD>
+    <WORD>hudumia</WORD>
+    <WORD>saidia</WORD>
+    <WORD>ruzuki</WORD>
+  </SYNONYM>
+  <DEF>angalia kwa kutoa huduma</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>142</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <USAGE>nguo aliyovaa imemchukua</USAGE>
+  <STAMP>vomondi 2023-08-21 12:20:32</STAMP>
+  <DOMAIN/>
+  <VERSION>453</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="10" lnote="">chukua</LITERAL>
+    <LITERAL sense="1" lnote="">pendeza</LITERAL>
+    <LITERAL sense="2" lnote="">kaa</LITERAL>
+    <LITERAL sense="1" lnote="">afiki</LITERAL>
+    <LITERAL sense="1" lnote="">agia</LITERAL>
+    <WORD>chukua</WORD>
+    <WORD>pendeza</WORD>
+    <WORD>kaa</WORD>
+    <WORD>afiki</WORD>
+    <WORD>agia</WORD>
+  </SYNONYM>
+  <DEF>pendeza</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-01214265-v</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-21 12:29:56</STAMP>
+  <DOMAIN/>
+  <VERSION>454</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="2" lnote="">chukua</LITERAL>
+    <LITERAL sense="1" lnote="">twaa</LITERAL>
+    <LITERAL sense="2" lnote="">la</LITERAL>
+    <WORD>chukua</WORD>
+    <WORD>twaa</WORD>
+    <WORD>la</WORD>
+  </SYNONYM>
+  <DEF>weka kwenye mkono</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>138</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-21 11:52:41</STAMP>
+  <DOMAIN/>
+  <VERSION>445</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="6" lnote="">chukua</LITERAL>
+    <LITERAL sense="1" lnote="">vumilia</LITERAL>
+    <LITERAL sense="1" lnote="">stahimili</LITERAL>
+    <LITERAL sense="1" lnote="">chukuana na</LITERAL>
+    <LITERAL sense="1" lnote="">subiri</LITERAL>
+    <LITERAL sense="1" lnote="">ngojea</LITERAL>
+    <WORD>chukua</WORD>
+    <WORD>vumilia</WORD>
+    <WORD>stahimili</WORD>
+    <WORD>chukuana</WORD>
+    <WORD>na</WORD>
+    <WORD>subiri</WORD>
+    <WORD>ngojea</WORD>
+  </SYNONYM>
+  <DEF>kuwa na uvumilivu; stahili, vumilia</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>135</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-21 11:54:32</STAMP>
+  <DOMAIN/>
+  <VERSION>446</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="3" lnote="">chukua</LITERAL>
+    <LITERAL sense="1" lnote="">pokea</LITERAL>
+    <WORD>chukua</WORD>
+    <WORD>pokea</WORD>
+  </SYNONYM>
+  <DEF>pokea: ~ pesa hizi</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>133</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-21 11:20:17</STAMP>
+  <DOMAIN/>
+  <VERSION>431</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">chukua</LITERAL>
+    <WORD>chukua</WORD>
+  </SYNONYM>
+  <DEF>ondoa kitu mahaili kilipowekwa na kuishika mkononi</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>140</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-21 11:29:19</STAMP>
+  <DOMAIN/>
+  <VERSION>438</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="8" lnote="">chukua</LITERAL>
+    <WORD>chukua</WORD>
+  </SYNONYM>
+  <DEF>weza kuwa na kipimo fulani.</DEF>
+  <CREATED>vomondi 2023-08-21 11:29:19</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>143</ID>
+  <BCS/>
+  <SNOTE>suffix(kiambishi tamati) = [ ~lia, ~lika, ~lisha, ~za, ~liwa, ~ana]</SNOTE>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-21 11:40:58</STAMP>
+  <DOMAIN/>
+  <VERSION>441</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="11" lnote="">chukua</LITERAL>
+    <WORD>chukua</WORD>
+  </SYNONYM>
+  <DEF>kuwa na ghrama ya; gharimu.</DEF>
+  <CREATED>vomondi 2023-08-21 11:40:58</CREATED>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>dhamira</WORD>
+    <LITERAL sense="1" lnote="">dhamira</LITERAL>
+  </SYNONYM>
+  <SNOTE/>
+  <BCS/>
+  <DOMAIN>fasihi</DOMAIN>
+  <SUMO type=""/>
+  <ID>101</ID>
+  <DEF>wazo kuu au mawazo mbalimbali yanayojitokeza katika kazi ya fasihi</DEF>
+  <STAMP>vomondi 2023-08-17 08:07:57</STAMP>
+  <VERSION>339</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+  <ILR type="hypernym">100</ILR>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>dhamira</WORD>
+    <WORD>kuu</WORD>
+    <LITERAL sense="1" lnote="">dhamira kuu</LITERAL>
+  </SYNONYM>
+  <BCS/>
+  <DOMAIN>fasihi</DOMAIN>
+  <SUMO type=""/>
+  <ID>102</ID>
+  <DEF>wazo kuu</DEF>
+  <STAMP>vomondi 2023-08-17 08:16:32</STAMP>
+  <VERSION>345</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+  <ILR type="hypernym">101</ILR>
+  <ILR type="near_antonym/kinyume">103</ILR>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>dhamira</WORD>
+    <WORD>ndogondogo</WORD>
+    <LITERAL sense="1" lnote="">dhamira ndogondogo</LITERAL>
+  </SYNONYM>
+  <BCS/>
+  <DOMAIN>fasihi</DOMAIN>
+  <SUMO type=""/>
+  <ID>103</ID>
+  <DEF>wazo ndogo katika kazi ya fasihi</DEF>
+  <STAMP>vomondi 2023-08-17 08:13:54</STAMP>
+  <VERSION>343</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+  <ILR type="hypernym">101</ILR>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">dhana</LITERAL>
+    <WORD>dhana</WORD>
+  </SYNONYM>
+  <BCS/>
+  <POS>n</POS>
+  <ID>290</ID>
+  <DEF>fikira inayoeleza jambo fulani</DEF>
+  <STAMP>vomondi 2023-08-30 09:00:19</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>907</VERSION>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-00943837-v</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-25 17:08:50</STAMP>
+  <DOMAIN/>
+  <VERSION>647</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">dhihirisha</LITERAL>
+    <LITERAL sense="1" lnote="">bainisha</LITERAL>
+    <LITERAL sense="1" lnote="">tofautisha</LITERAL>
+    <WORD>dhihirisha</WORD>
+    <WORD>bainisha</WORD>
+    <WORD>tofautisha</WORD>
+  </SYNONYM>
+  <DEF>fanya ijulikane, onyesha  waziwazi</DEF>
+  <CREATED>vomondi 2023-08-25 17:08:50</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-14622893-n</ID>
+  <BCS/>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-25 19:20:06</STAMP>
+  <DOMAIN>kemia</DOMAIN>
+  <VERSION>659</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">elementi</LITERAL>
+    <WORD>elementi</WORD>
+  </SYNONYM>
+  <DEF>kitu kidogo kabisa ambacho hakiwezi kugawanyika tena kikemikali</DEF>
+  <CREATED>vomondi 2023-08-25 19:20:06</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>215</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-25 17:01:57</STAMP>
+  <DOMAIN/>
+  <VERSION>646</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">eleza</LITERAL>
+    <WORD>eleza</WORD>
+  </SYNONYM>
+  <DEF>toa maelezo kuhusu jambo fulani</DEF>
+  <CREATED>vomondi 2023-08-25 17:01:57</CREATED>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (li-/ya-) (ma-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">eneo</LITERAL>
+    <WORD>eneo</WORD>
+  </SYNONYM>
+  <BCS/>
+  <POS>n</POS>
+  <ID>eng-30-08630039-n</ID>
+  <DEF>sehemu ya ardhi</DEF>
+  <STAMP>vomondi 2023-08-27 21:01:22</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>766</VERSION>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>falsafa</WORD>
+    <LITERAL sense="1" lnote="">falsafa</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-17 08:41:51</CREATED>
+  <DOMAIN>fasihi</DOMAIN>
+  <SUMO type=""/>
+  <ID>109</ID>
+  <DEF>ni mawazo ya busara yenye kutawaliwa na misingi mahususi juu ya asili na maana ya ulimwengu na maisha ya mwanadamu. Ni msimamo wa msanii katika maisha juu ya utatuzi wa matatizo katika jamii. Falsafa ya mwandishi inaweza kujulikana kwa kusoma kazi zake zaidi ya moja.</DEF>
+  <STAMP>vomondi 2023-08-17 08:41:51</STAMP>
+  <VERSION>351</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+  <ILR type="hypernym">100</ILR>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-03405725-n</ID>
+  <BCS/>
+  <SNOTE>Ngeli (zi-)</SNOTE>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-26 21:54:33</STAMP>
+  <DOMAIN/>
+  <VERSION>703</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">fanicha</LITERAL>
+    <LITERAL sense="1" lnote="">samani</LITERAL>
+    <WORD>fanicha</WORD>
+    <WORD>samani</WORD>
+  </SYNONYM>
+  <DEF>vyombo vya nyumbani</DEF>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>flora</WORD>
+    <LITERAL sense="1" lnote="">flora</LITERAL>
+  </SYNONYM>
+  <BCS/>
+  <CREATED>vomondi 2023-08-14 12:51:35</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <USAGE>flora ya Kenya</USAGE>
+  <ID>eng-30-08436759-n</ID>
+  <DEF>mimea yote ya nchi fulani au ya kipindi maalum</DEF>
+  <STAMP>vomondi 2023-08-14 12:51:35</STAMP>
+  <VERSION>106</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+  <ILR type="borrowed word">eng-30-00017222-n</ILR>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-13972797-n</ID>
+  <BCS/>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-24 13:35:14</STAMP>
+  <DOMAIN/>
+  <VERSION>561</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">fujo</LITERAL>
+    <LITERAL sense="1" lnote="">ghasia</LITERAL>
+    <WORD>fujo</WORD>
+    <WORD>ghasia</WORD>
+  </SYNONYM>
+  <DEF>hali ya kutokuwako utulivu</DEF>
+  <CREATED>vomondi 2023-08-24 13:35:14</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-01332730-v</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-21 14:23:09</STAMP>
+  <DOMAIN/>
+  <VERSION>471</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">funika</LITERAL>
+    <LITERAL sense="1" lnote="">ficha</LITERAL>
+    <LITERAL sense="1" lnote="">sitiri</LITERAL>
+    <WORD>funika</WORD>
+    <WORD>ficha</WORD>
+    <WORD>sitiri</WORD>
+  </SYNONYM>
+  <DEF>weka kitu juu ya kingine ili kilichoko chini yake kisionekane</DEF>
+  <CREATED>vomondi 2023-08-21 14:23:09</CREATED>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>geuko</WORD>
+    <LITERAL sense="1" lnote="">geuko</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (li-/ya-)</SNOTE>
+  <SNOTE>wingi (plural) - mageuko</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-17 13:20:57</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-00191142-n</ID>
+  <DEF>badiliko</DEF>
+  <STAMP>vomondi 2023-08-17 13:20:57</STAMP>
+  <VERSION>387</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>geuza</WORD>
+    <LITERAL sense="1" lnote="">geuza</LITERAL>
+  </SYNONYM>
+  <BCS/>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-00126264-v</ID>
+  <DEF/>
+  <STAMP>vomondi 2023-08-17 13:38:38</STAMP>
+  <VERSION>391</VERSION>
+  <NL>false</NL>
+  <POS>v</POS>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>giligili</WORD>
+    <LITERAL sense="1" lnote="">giligili</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <BCS/>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-14939900-n</ID>
+  <DEF>kitu ambacho kiko majimaji</DEF>
+  <STAMP>vomondi 2023-08-16 14:36:13</STAMP>
+  <VERSION>279</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-00024720-n</ID>
+  <BCS/>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-24 09:43:14</STAMP>
+  <DOMAIN/>
+  <VERSION>521</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">hali</LITERAL>
+    <WORD>hali</WORD>
+  </SYNONYM>
+  <DEF>jinsi mambo yalivyo.</DEF>
+  <CREATED>vomondi 2023-08-24 09:43:14</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-13927383-n</ID>
+  <BCS/>
+  <ILR type="hypernym">eng-30-00024720-n</ILR>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-24 10:25:38</STAMP>
+  <DOMAIN/>
+  <VERSION>537</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">hali ya jambo</LITERAL>
+    <WORD>hali</WORD>
+    <WORD>ya</WORD>
+    <WORD>jambo</WORD>
+  </SYNONYM>
+  <DEF>hali kwa ujumla wa mambo au jambo</DEF>
+</SYNSET>
+<SYNSET>
+  <SNOTE/>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">hati</LITERAL>
+    <WORD>hati</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-06362953-n</ILR>
+  <POS>n</POS>
+  <ID>eng-30-06470073-n</ID>
+  <DEF>maandiko rasmi</DEF>
+  <STAMP>vomondi 2023-08-27 09:01:04</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>732</VERSION>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-01188725-v</ID>
+  <BCS/>
+  <ILR type="hypernym">eng-30-02604760-v</ILR>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-24 15:23:25</STAMP>
+  <DOMAIN/>
+  <VERSION>567</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">hitaji</LITERAL>
+    <WORD>hitaji</WORD>
+  </SYNONYM>
+  <DEF>kuwa na haja ya kitu fulani</DEF>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>homo</WORD>
+    <WORD>binadamu</WORD>
+    <WORD>mja</WORD>
+    <WORD>mahuluki</WORD>
+    <WORD>adinasi</WORD>
+    <LITERAL sense="1" lnote="">homo</LITERAL>
+    <LITERAL sense="1" lnote="">binadamu</LITERAL>
+    <LITERAL sense="1" lnote="">mja</LITERAL>
+    <LITERAL sense="1" lnote="">mahuluki</LITERAL>
+    <LITERAL sense="1" lnote="">adinasi</LITERAL>
+  </SYNONYM>
+  <BCS/>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-02472293-n</ID>
+  <DEF>kiumbe kilicho katika daraja la juu kabisa kuliko viumbe vyote na chenye uwezo mkubwa wa kufikiria</DEF>
+  <STAMP>vomondi 2023-08-18 10:19:50</STAMP>
+  <VERSION>408</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <ID>156</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-21 14:38:14</STAMP>
+  <DOMAIN/>
+  <VERSION>477</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">hui</LITERAL>
+    <WORD>hui</WORD>
+  </SYNONYM>
+  <DEF>tia uhai ama uzima</DEF>
+  <CREATED>vomondi 2023-08-21 14:38:14</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-01753788-v</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-21 14:32:11</STAMP>
+  <DOMAIN/>
+  <VERSION>474</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">huluku</LITERAL>
+    <LITERAL sense="1" lnote="">umba</LITERAL>
+    <WORD>huluku</WORD>
+    <WORD>umba</WORD>
+  </SYNONYM>
+  <DEF>leta duniani</DEF>
+  <CREATED>vomondi 2023-08-21 14:32:11</CREATED>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">ishara</LITERAL>
+    <WORD>ishara</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-05765415-n</ILR>
+  <POS>n</POS>
+  <ID>231</ID>
+  <DEF>alama yenye kuwakilisha au kuashiria kitu fulani</DEF>
+  <STAMP>vomondi 2023-08-27 07:55:14</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>710</VERSION>
+  <CREATED>vomondi 2023-08-27 07:55:14</CREATED>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (i-/i-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">isimu</LITERAL>
+    <WORD>isimu</WORD>
+  </SYNONYM>
+  <BCS/>
+  <POS>n</POS>
+  <ID>eng-30-06172789-n</ID>
+  <DEF>taalumu inayochunguza na kuchambua lugha kisayansi</DEF>
+  <STAMP>vomondi 2023-08-29 19:51:28</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>807</VERSION>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>jengo</WORD>
+    <LITERAL sense="2" lnote="">jengo</LITERAL>
+  </SYNONYM>
+  <BCS/>
+  <CREATED>vomondi 2023-08-15 11:07:51</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>64</ID>
+  <DEF>Muundo wenye paa na kuta ambao unasimama karibu na mahali moja kwa muda mrefu</DEF>
+  <STAMP>vomondi 2023-08-15 11:07:51</STAMP>
+  <VERSION>145</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+  <ILR type="hypernym">63</ILR>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (li-/ya-) (ma-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">jengo</LITERAL>
+    <WORD>jengo</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-00021939-n</ILR>
+  <POS>n</POS>
+  <ID>eng-30-04341686-n</ID>
+  <DEF>chochote kilichojengwa au kuundwa</DEF>
+  <STAMP>vomondi 2023-08-29 23:20:50</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>847</VERSION>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (li-/ya-) (ma-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">jumba</LITERAL>
+    <WORD>jumba</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-04341686-n</ILR>
+  <POS>n</POS>
+  <ID>eng-30-02913152-n</ID>
+  <DEF>jengo kubwa la kifahari ambamo agh. hukaa mfalme kasri</DEF>
+  <STAMP>vomondi 2023-08-29 23:22:20</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>848</VERSION>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-00575741-n</ID>
+  <BCS/>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-26 09:59:13</STAMP>
+  <DOMAIN/>
+  <VERSION>664</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="2" lnote="">kazi</LITERAL>
+    <LITERAL sense="1" lnote="">amali</LITERAL>
+    <WORD>kazi</WORD>
+    <WORD>amali</WORD>
+  </SYNONYM>
+  <DEF>shughuli anayofanya mtu k.v kulima, kuandika au kufundisha</DEF>
+  <CREATED>vomondi 2023-08-26 09:59:13</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-04599396-n</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <USAGE>amefanya kazi safi sana</USAGE>
+  <STAMP>vomondi 2023-08-26 09:54:03</STAMP>
+  <DOMAIN/>
+  <VERSION>663</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">kazi</LITERAL>
+    <WORD>kazi</WORD>
+  </SYNONYM>
+  <DEF>chochote kilichotengenezwa au kufanikishwa kupitia juhudi au shughuli au mamlaka ya mtu au kitu.</DEF>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">kazi ya sanaa</LITERAL>
+    <WORD>kazi</WORD>
+    <WORD>ya</WORD>
+    <WORD>sanaa</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-02743547-n</ILR>
+  <POS>n</POS>
+  <ID>eng-30-04601690-n</ID>
+  <DEF>kazi ya sanaa</DEF>
+  <STAMP>vomondi 2023-08-30 07:29:30</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>888</VERSION>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>kifaa</WORD>
+    <WORD>silaha</WORD>
+    <WORD>samani</WORD>
+    <LITERAL sense="1" lnote="">kifaa</LITERAL>
+    <LITERAL sense="1" lnote="">silaha</LITERAL>
+    <LITERAL sense="2" lnote="">samani</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (ki-/vi-)</SNOTE>
+  <SNOTE>wingi (plural) - vifaa</SNOTE>
+  <BCS/>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-03183080-n</ID>
+  <DEF>kitu au chombo kinachotumika katika kufanyia kazi fulani au kutekeleza kusudi fulani</DEF>
+  <STAMP>vomondi 2023-08-17 00:00:55</STAMP>
+  <VERSION>332</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (ki-/vi-) (vi-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="2" lnote="">kifundiro</LITERAL>
+    <WORD>kifundiro</WORD>
+  </SYNONYM>
+  <USAGE>Nguo ni kifundiro cha pamba</USAGE>
+  <BCS/>
+  <ILR type="hypernym">eng-30-03129123-n</ILR>
+  <POS>n</POS>
+  <ID>eng-30-04007894-n</ID>
+  <DEF>kitu kilichotengenezwa kutoka kitu kingine</DEF>
+  <STAMP>vomondi 2023-08-29 23:26:04</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>851</VERSION>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>kima</WORD>
+    <LITERAL sense="1" lnote="">kima</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (a-/wa-)</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-14 17:01:59</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>57</ID>
+  <DEF>mnyama mdog wa jamii ya nyani, tumbili, ngedere</DEF>
+  <STAMP>vomondi 2023-08-14 17:01:59</STAMP>
+  <VERSION>135</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>kima</WORD>
+    <WORD>nyama</WORD>
+    <WORD>ya</WORD>
+    <WORD>kusaga</WORD>
+    <LITERAL sense="2" lnote="">kima</LITERAL>
+    <LITERAL sense="1" lnote="">nyama ya kusaga</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (ki-/vi-)</SNOTE>
+  <SNOTE>wingi (plural) - vima</SNOTE>
+  <BCS/>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>58</ID>
+  <DEF>namna  ya mchuzi wa nyama iliyosagwa</DEF>
+  <STAMP>vomondi 2023-08-15 09:37:29</STAMP>
+  <VERSION>138</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (ki-/vi-) (vi-)</SNOTE>
+  <SNOTE>Ngeli (ki-/vi-) (vi-)</SNOTE>
+  <SNOTE>Ngeli (i-/i-)</SNOTE>
+  <SNOTE>Ngeli (ki-/vi-)</SNOTE>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="3" lnote="">kima</LITERAL>
+    <LITERAL sense="1" lnote="">kiwango</LITERAL>
+    <LITERAL sense="1" lnote="">kadiri</LITERAL>
+    <LITERAL sense="1" lnote="">kiasi</LITERAL>
+    <LITERAL sense="1" lnote="">idadi</LITERAL>
+    <WORD>kima</WORD>
+    <WORD>kiwango</WORD>
+    <WORD>kadiri</WORD>
+    <WORD>kiasi</WORD>
+    <WORD>idadi</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-00002137-n</ILR>
+  <POS>n</POS>
+  <ID>eng-30-00033615-n</ID>
+  <DEF>Kiasi au idadi ya kitu fulani</DEF>
+  <STAMP>vomondi 2023-08-30 09:48:54</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>928</VERSION>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (ki-/vi-) (vi-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">kinyago</LITERAL>
+    <WORD>kinyago</WORD>
+  </SYNONYM>
+  <BCS/>
+  <POS>n</POS>
+  <ID>277</ID>
+  <DEF>kivazi cha kutisha au kuchekesha katika ngoma</DEF>
+  <STAMP>vomondi 2023-08-30 06:53:15</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>863</VERSION>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (ki-/vi-) (vi-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="5" lnote="">kinyago</LITERAL>
+    <WORD>kinyago</WORD>
+  </SYNONYM>
+  <BCS/>
+  <POS>n</POS>
+  <ID>281</ID>
+  <DEF>vitendo vifanywavyo katika shughuli za unyago</DEF>
+  <STAMP>vomondi 2023-08-30 07:04:37</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>872</VERSION>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (ki-/vi-) (vi-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="4" lnote="">kinyago</LITERAL>
+    <WORD>kinyago</WORD>
+  </SYNONYM>
+  <BCS/>
+  <POS>n</POS>
+  <ID>280</ID>
+  <DEF>nyimbo maalum za mafundisho zinazoimbwa katika unyago</DEF>
+  <STAMP>vomondi 2023-08-30 07:03:00</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>869</VERSION>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (a-/wa-) (vi-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="3" lnote="">kinyago</LITERAL>
+    <WORD>kinyago</WORD>
+  </SYNONYM>
+  <BCS/>
+  <POS>n</POS>
+  <ID>279</ID>
+  <DEF>mtu anayefanya achekwe au adharauliwe kwa mavazi au vitendo</DEF>
+  <STAMP>vomondi 2023-08-30 07:04:18</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>871</VERSION>
+</SYNSET>
+<SYNSET>
+  <SNOTE/>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="6" lnote="">kinyago</LITERAL>
+    <LITERAL sense="1" lnote="">mizungu</LITERAL>
+    <WORD>kinyago</WORD>
+    <WORD>mizungu</WORD>
+  </SYNONYM>
+  <BCS/>
+  <POS>n</POS>
+  <ID>282</ID>
+  <DEF>mitihani wanayofanyiwa walioko unyagoni</DEF>
+  <STAMP>vomondi 2023-08-30 07:05:32</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>874</VERSION>
+</SYNSET>
+<SYNSET>
+  <SNOTE/>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="2" lnote="">kinyago</LITERAL>
+    <WORD>kinyago</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-02743547-n</ILR>
+  <POS>n</POS>
+  <ID>eng-30-04157320-n</ID>
+  <DEF>kitu kilichochongwa na kufananishwa na kitu kingine k.v mtu au mnyama</DEF>
+  <STAMP>vomondi 2023-08-30 08:23:06</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>895</VERSION>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (ki-/vi-) (vi-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">kinyambuo</LITERAL>
+    <WORD>kinyambuo</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-06286395-n</ILR>
+  <POS>n</POS>
+  <ID>eng-30-06290051-n</ID>
+  <DEF>(sarufi) neno lilioundwa kwa kuambatisha kiambishi au viambishi katika mzizi wa neno</DEF>
+  <STAMP>vomondi 2023-08-29 19:30:28</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>797</VERSION>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>kinywaji</WORD>
+    <LITERAL sense="1" lnote="">kinywaji</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (ki-/vi-)</SNOTE>
+  <SNOTE>wingi (plural) - vinywaji</SNOTE>
+  <BCS/>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-07881800-n</ID>
+  <DEF>chakula cha maji maji k.m. chai</DEF>
+  <STAMP>vomondi 2023-08-16 20:15:31</STAMP>
+  <VERSION>321</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+  <ILR type="hypernym">eng-30-00021265-n</ILR>
+  <ILR type="hypernym">eng-30-14940386-n</ILR>
+</SYNSET>
+<SYNSET>
+  <ID>204</ID>
+  <BCS/>
+  <SNOTE>Ngeli (ki-/vi-) (vi-)</SNOTE>
+  <SNOTE>Ngeli (u-/i-) (mi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-25 10:00:40</STAMP>
+  <DOMAIN/>
+  <VERSION>619</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">kiongozi</LITERAL>
+    <LITERAL sense="3" lnote="">mwongozo</LITERAL>
+    <WORD>kiongozi</WORD>
+    <WORD>mwongozo</WORD>
+  </SYNONYM>
+  <DEF>kitabu chenye maelezo ya namna ya kufanya jambo fulani</DEF>
+  <CREATED>vomondi 2023-08-25 10:00:40</CREATED>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>kiowevu</WORD>
+    <LITERAL sense="1" lnote="">kiowevu</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (ki-/vi-)</SNOTE>
+  <SNOTE>wingi (plural) - viowevu</SNOTE>
+  <BCS/>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-14940386-n</ID>
+  <DEF>uwoevu kitu kama maji, kimiminiko</DEF>
+  <STAMP>vomondi 2023-08-16 14:39:20</STAMP>
+  <VERSION>283</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+  <ILR type="hypernym">eng-30-14939900-n</ILR>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-13809207-n</ID>
+  <BCS/>
+  <SNOTE>Ngeli (ki-/vi-) (vi-)</SNOTE>
+  <SNOTE>Ngeli (ki-/vi-) (vi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <USAGE>kipande cha nyama</USAGE>
+  <USAGE>mkigawa nyama yenu mimi nipeni kinungu cha mguu.</USAGE>
+  <STAMP>vomondi 2023-08-26 20:30:16</STAMP>
+  <DOMAIN/>
+  <VERSION>684</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">kipande</LITERAL>
+    <LITERAL sense="1" lnote="">kinungu</LITERAL>
+    <WORD>kipande</WORD>
+    <WORD>kinungu</WORD>
+  </SYNONYM>
+  <DEF>sehemu ya kitu</DEF>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>kipande</WORD>
+    <LITERAL sense="3" lnote="">kipande</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (ki-/vi-)</SNOTE>
+  <SNOTE>wingi (plural) - vipande</SNOTE>
+  <BCS/>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>49</ID>
+  <DEF>kibarua kinachofanyiwa kazi ya mwezi</DEF>
+  <STAMP>vomondi 2023-08-14 16:19:52</STAMP>
+  <VERSION>128</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>kipande</WORD>
+    <LITERAL sense="4" lnote="">kipande</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (ki-/vi-)</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-14 16:23:21</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <USAGE/>
+  <ID>51</ID>
+  <DEF>hutumika katika kuelezea ukubwa na unene wa umbo la mtu; ~ cha mtu</DEF>
+  <STAMP>vomondi 2023-08-14 16:23:21</STAMP>
+  <VERSION>129</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>kipande</WORD>
+    <LITERAL sense="5" lnote="">kipande</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (ki-/vi-)</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-14 16:25:02</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>52</ID>
+  <DEF>kipande cha ubao unaotumika kupigilia sakafu au kusirimia ukuta</DEF>
+  <STAMP>vomondi 2023-08-14 16:25:02</STAMP>
+  <VERSION>130</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>kipande</WORD>
+    <LITERAL sense="6" lnote="">kipande</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (ki-/vi-)</SNOTE>
+  <SNOTE>wingi (plural) - vipande</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-14 16:25:39</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>53</ID>
+  <DEF>chombo</DEF>
+  <STAMP>vomondi 2023-08-14 16:25:39</STAMP>
+  <VERSION>131</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <ID>48</ID>
+  <BCS/>
+  <SNOTE>Ngeli (ki-/vi-) (vi-)</SNOTE>
+  <SNOTE>Ngeli (ki-/vi-) (vi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <USAGE>kutoka hapa mpaka kwake ni kitambo</USAGE>
+  <STAMP>vomondi 2023-08-26 20:27:49</STAMP>
+  <DOMAIN/>
+  <VERSION>683</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="2" lnote="">kipande</LITERAL>
+    <LITERAL sense="1" lnote="">kitambo</LITERAL>
+    <WORD>kipande</WORD>
+    <WORD>kitambo</WORD>
+  </SYNONYM>
+  <DEF>masafa marefu</DEF>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (ki-/vi-) (vi-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">kipatanishi</LITERAL>
+    <WORD>kipatanishi</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-04424418-n</ILR>
+  <POS>n</POS>
+  <ID>eng-30-03870461-n</ID>
+  <DEF>kitu chochote kinacholeta patanisho</DEF>
+  <STAMP>vomondi 2023-08-30 10:54:28</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>945</VERSION>
+</SYNSET>
+<SYNSET>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">kipengele cha kisaikolojia</LITERAL>
+    <WORD>kipengele</WORD>
+    <WORD>cha</WORD>
+    <WORD>kisaikolojia</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-00002137-n</ILR>
+  <POS>n</POS>
+  <ID>eng-30-00023100-n</ID>
+  <DEF>kipengele cha maisha ya kiakili ya kiumbe hai</DEF>
+  <STAMP>vomondi 2023-08-30 09:51:58</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>932</VERSION>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-15113229-n</ID>
+  <BCS/>
+  <SNOTE>Ngeli (ki-/vi-) (vi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <USAGE>kipindi cha sala</USAGE>
+  <STAMP>vomondi 2023-08-25 11:14:56</STAMP>
+  <DOMAIN/>
+  <VERSION>632</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">kipindi</LITERAL>
+    <WORD>kipindi</WORD>
+  </SYNONYM>
+  <DEF>muda maalumu na wa kiwango fulani</DEF>
+  <CREATED>vomondi 2023-08-25 11:14:56</CREATED>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>kitambaa</WORD>
+    <LITERAL sense="1" lnote="">kitambaa</LITERAL>
+  </SYNONYM>
+  <SNOTE/>
+  <BCS/>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-03309808-n</ID>
+  <DEF>kipande cha tambaa au jora ambalo kimekatwa ili kushonea</DEF>
+  <STAMP>vomondi 2023-08-16 18:47:41</STAMP>
+  <VERSION>313</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+  <ILR type="hypernym">eng-30-00021939-n</ILR>
+</SYNSET>
+<SYNSET>
+  <ID>207</ID>
+  <BCS/>
+  <ILR type="hypernym">206</ILR>
+  <SNOTE>Ngeli (ki-/)</SNOTE>
+  <SUMO type=""/>
+  <POS>a</POS>
+  <USAGE>Tangu aondoke ni kitambo</USAGE>
+  <STAMP>vomondi 2023-08-25 10:50:31</STAMP>
+  <DOMAIN/>
+  <VERSION>624</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="3" lnote="">kitambo</LITERAL>
+    <WORD>kitambo</WORD>
+  </SYNONYM>
+  <DEF>urefu wa muda</DEF>
+  <CREATED>vomondi 2023-08-25 10:50:31</CREATED>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (ki-/vi-) (vi-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">kitengo cha lugha</LITERAL>
+    <WORD>kitengo</WORD>
+    <WORD>cha</WORD>
+    <WORD>lugha</WORD>
+  </SYNONYM>
+  <BCS/>
+  <POS>n</POS>
+  <ID>eng-30-06284225-n</ID>
+  <DEF/>
+  <STAMP>vomondi 2023-08-29 19:46:34</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>801</VERSION>
+  <CREATED>vomondi 2023-08-29 19:46:34</CREATED>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (ki-/vi-) (vi-)</SNOTE>
+  <SNOTE>Ngeli (ki-/vi-) (vi-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">kitisho</LITERAL>
+    <LITERAL sense="1" lnote="">kikuli</LITERAL>
+    <WORD>kitisho</WORD>
+    <WORD>kikuli</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-04424418-n</ILR>
+  <POS>n</POS>
+  <ID>eng-30-03537866-n</ID>
+  <DEF>kitu au tendo linalotia hofu sana</DEF>
+  <STAMP>vomondi 2023-08-30 10:45:06</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>941</VERSION>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>kitu</WORD>
+    <WORD>kitu</WORD>
+    <WORD>chake</WORD>
+    <LITERAL sense="4" lnote="">kitu</LITERAL>
+    <LITERAL sense="1" lnote="">kitu chake</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (ki-/vi-)</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-14 13:39:52</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <USAGE>kitu cha msumari ni chuma</USAGE>
+  <USAGE>kitu cha meza ni mbao</USAGE>
+  <ID>39</ID>
+  <DEF>chochote ambacho kwacho kitu kimefanyiwa</DEF>
+  <STAMP>vomondi 2023-08-14 13:39:52</STAMP>
+  <VERSION>112</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <ID>38</ID>
+  <BCS/>
+  <ILR type="homonyms (vitawe)">37</ILR>
+  <ILR type="homonyms (vitawe)">28</ILR>
+  <SNOTE>Ngeli (ki-/vi-) (vitu)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-22 08:35:10</STAMP>
+  <DOMAIN/>
+  <VERSION>513</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="2" lnote="">kitu</LITERAL>
+    <WORD>kitu</WORD>
+  </SYNONYM>
+  <DEF>neno linalotumika kwa maana ya mali au fedha</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-00002684-n</ID>
+  <BCS/>
+  <SNOTE>Ngeli (ki-/vi-) (vitu)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-22 08:27:48</STAMP>
+  <DOMAIN/>
+  <VERSION>511</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="3" lnote="">kitu</LITERAL>
+    <WORD>kitu</WORD>
+  </SYNONYM>
+  <DEF>dhati ya chochote kilichoko kinachoweza kushikika, kuonekana , kuhisika au kusikika</DEF>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (ki-/vi-) (vi-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">kitu</LITERAL>
+    <WORD>kitu</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-00001740-n</ILR>
+  <POS>n</POS>
+  <ID>eng-30-04424418-n</ID>
+  <DEF>kitu kisichokuwa na jina</DEF>
+  <STAMP>vomondi 2023-08-30 10:59:14</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>951</VERSION>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-00019128-n</ID>
+  <BCS/>
+  <ILR type="near_antonym/kinyume">eng-30-00021939-n</ILR>
+  <SNOTE>Ngeli (ki-/vi-) (vitu asili)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-22 08:33:44</STAMP>
+  <DOMAIN/>
+  <VERSION>512</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">kitu asili</LITERAL>
+    <WORD>kitu</WORD>
+    <WORD>asili</WORD>
+  </SYNONYM>
+  <DEF>kitu kitakacho kiasili ambacho hakijatengenezwa na binadamu</DEF>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>kitu</WORD>
+    <WORD>kamili</WORD>
+    <WORD>chombo</WORD>
+    <WORD>kamili</WORD>
+    <LITERAL sense="1" lnote="">kitu kamili</LITERAL>
+    <LITERAL sense="1" lnote="">chombo kamili</LITERAL>
+  </SYNONYM>
+  <BCS/>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-00001740-n</ID>
+  <DEF>nyenye kuishi au kuwepo</DEF>
+  <STAMP>vomondi 2023-08-14 13:49:59</STAMP>
+  <VERSION>114</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">kitu kilichoumbwa</LITERAL>
+    <WORD>kitu</WORD>
+    <WORD>kilichoumbwa</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-00021939-n</ILR>
+  <POS>n</POS>
+  <ID>eng-30-03129123-n</ID>
+  <DEF>kitu chochote kilichoumbwa</DEF>
+  <STAMP>vomondi 2023-08-29 23:24:22</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>850</VERSION>
+</SYNSET>
+<SYNSET>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">kitu kubwa</LITERAL>
+    <LITERAL sense="1" lnote="">jambo kubwa</LITERAL>
+    <WORD>kitu</WORD>
+    <WORD>kubwa</WORD>
+    <WORD>jambo</WORD>
+    <WORD>kubwa</WORD>
+  </SYNONYM>
+  <USAGE>uongo mkubwa</USAGE>
+  <BCS/>
+  <ILR type="hypernym">eng-30-04424418-n</ILR>
+  <POS>n</POS>
+  <ID>eng-30-04574234-n</ID>
+  <DEF>kitu kikubwa cha aina yake</DEF>
+  <STAMP>vomondi 2023-08-30 11:04:12</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>955</VERSION>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>kiumbe</WORD>
+    <LITERAL sense="1" lnote="">kiumbe</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (ki-/vi-)</SNOTE>
+  <SNOTE>wingi (plural) - viumbe</SNOTE>
+  <BCS/>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-00004475-n</ID>
+  <DEF>chenye kuumbwa na chenye uhai; lakini hasa ni mwanadamu, wanyama, ndege</DEF>
+  <STAMP>vomondi 2023-08-16 11:08:57</STAMP>
+  <VERSION>254</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+  <ILR type="hypernym">eng-30-00004258-n</ILR>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>kiumbe</WORD>
+    <WORD>hai</WORD>
+    <LITERAL sense="1" lnote="">kiumbe hai</LITERAL>
+  </SYNONYM>
+  <BCS/>
+  <CREATED>vomondi 2023-08-16 09:51:51</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-00004258-n</ID>
+  <DEF>chenye uhai</DEF>
+  <STAMP>vomondi 2023-08-16 09:51:51</STAMP>
+  <VERSION>223</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>komesha</WORD>
+    <LITERAL sense="1" lnote="">komesha</LITERAL>
+  </SYNONYM>
+  <BCS/>
+  <CREATED>vomondi 2023-08-17 11:23:29</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-02680814-v</ID>
+  <DEF/>
+  <STAMP>vomondi 2023-08-17 11:23:29</STAMP>
+  <VERSION>384</VERSION>
+  <NL>false</NL>
+  <POS>v</POS>
+</SYNSET>
+<SYNSET>
+  <ID>212</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-25 15:06:39</STAMP>
+  <DOMAIN/>
+  <VERSION>635</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">kumbuka</LITERAL>
+    <LITERAL sense="1" lnote="">dhukuru</LITERAL>
+    <LITERAL sense="1" lnote="">tanabahi</LITERAL>
+    <WORD>kumbuka</WORD>
+    <WORD>dhukuru</WORD>
+    <WORD>tanabahi</WORD>
+  </SYNONYM>
+  <DEF>jiwa tena na fikira ya jambo lililotokea au lililopita</DEF>
+  <CREATED>vomondi 2023-08-25 15:06:39</CREATED>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (li-/ya-) (ma-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">kundi</LITERAL>
+    <LITERAL sense="1" lnote="">kusanyiko</LITERAL>
+    <WORD>kundi</WORD>
+    <WORD>kusanyiko</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-00002137-n</ILR>
+  <POS>n</POS>
+  <ID>eng-30-00031264-n</ID>
+  <DEF>mkusanyiko wa wanyama au watu kwa pamoja</DEF>
+  <STAMP>vomondi 2023-08-30 09:44:52</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>927</VERSION>
+</SYNSET>
+<SYNSET>
+  <ID>147</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <USAGE>kutu inakula chuma</USAGE>
+  <STAMP>vomondi 2023-08-21 12:57:45</STAMP>
+  <DOMAIN/>
+  <VERSION>458</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="4" lnote="">la</LITERAL>
+    <WORD>la</WORD>
+  </SYNONYM>
+  <DEF>punguza; haribu</DEF>
+  <CREATED>vomondi 2023-08-21 12:57:45</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>146</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <USAGE>leo tumekula hasara</USAGE>
+  <STAMP>vomondi 2023-08-21 12:56:44</STAMP>
+  <DOMAIN/>
+  <VERSION>457</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="3" lnote="">la</LITERAL>
+    <WORD>la</WORD>
+  </SYNONYM>
+  <DEF>pata</DEF>
+  <CREATED>vomondi 2023-08-21 12:56:44</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>148</ID>
+  <BCS/>
+  <SNOTE>suffix(kiambishi tamati) = [~ia, ~ika, ~isha, ~iwa, ~ana]</SNOTE>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <USAGE>kula njama fanya shari kwa siri</USAGE>
+  <STAMP>vomondi 2023-08-21 13:00:52</STAMP>
+  <DOMAIN/>
+  <VERSION>459</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="5" lnote="">la</LITERAL>
+    <WORD>la</WORD>
+  </SYNONYM>
+  <DEF>hutumika katika msemo</DEF>
+  <CREATED>vomondi 2023-08-21 13:00:52</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-01156834-v</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-21 13:02:13</STAMP>
+  <DOMAIN/>
+  <VERSION>460</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">la</LITERAL>
+    <LITERAL sense="1" lnote="">meza</LITERAL>
+    <WORD>la</WORD>
+    <WORD>meza</WORD>
+  </SYNONYM>
+  <DEF>tia chakula kinywani na kumeza</DEF>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (ya-/ya-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">maandiko</LITERAL>
+    <WORD>maandiko</WORD>
+  </SYNONYM>
+  <BCS/>
+  <POS>n</POS>
+  <ID>237</ID>
+  <DEF>maneno hasa ya kidini yaliyoandikwa pamoja na ujumbe wake</DEF>
+  <STAMP>vomondi 2023-08-27 08:43:16</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>724</VERSION>
+  <CREATED>vomondi 2023-08-27 08:43:16</CREATED>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (li-/ya-)</SNOTE>
+  <SNOTE>Ngeli (li-/ya-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">maandishi</LITERAL>
+    <LITERAL sense="2" lnote="">maandiko</LITERAL>
+    <WORD>maandishi</WORD>
+    <WORD>maandiko</WORD>
+  </SYNONYM>
+  <BCS/>
+  <POS>n</POS>
+  <ID>238</ID>
+  <DEF>jumla ya maneno yaliyoandikwa</DEF>
+  <STAMP>vomondi 2023-08-27 08:49:12</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>726</VERSION>
+  <CREATED>vomondi 2023-08-27 08:49:12</CREATED>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>maarifa</WORD>
+    <LITERAL sense="1" lnote="">maarifa</LITERAL>
+  </SYNONYM>
+  <SNOTE/>
+  <BCS/>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-00023271-n</ID>
+  <DEF>uwezo wa kujua mambo mengi, na hiyo inakuja kwa kusoma sana</DEF>
+  <STAMP>vomondi 2023-08-17 09:48:14</STAMP>
+  <VERSION>362</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <ID>175</ID>
+  <BCS/>
+  <ILR type="hypernym">eng-30-05616246-n</ILR>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-24 12:55:19</STAMP>
+  <DOMAIN/>
+  <VERSION>560</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">madaraka</LITERAL>
+    <WORD>madaraka</WORD>
+  </SYNONYM>
+  <DEF>uwezo wa kupanga au kufanya mambo fulani anaopewa mtu au nchi</DEF>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>maendeleo</WORD>
+    <LITERAL sense="1" lnote="">maendeleo</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (ya-)</SNOTE>
+  <BCS/>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-00250259-n</ID>
+  <DEF>hali ya kusong mbele kwa mawazo au uchumi</DEF>
+  <STAMP>vomondi 2023-08-18 11:59:35</STAMP>
+  <VERSION>417</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>mafunzo</WORD>
+    <LITERAL sense="1" lnote="">mafunzo</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (ya-)</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-17 08:46:01</CREATED>
+  <DOMAIN>fasihi</DOMAIN>
+  <SUMO type=""/>
+  <ID>111</ID>
+  <DEF>ni mawazo ya kuelimisha yanayopatikana katika dhamira mbalimbali za kazi ya fasihi.</DEF>
+  <STAMP>vomondi 2023-08-17 08:46:01</STAMP>
+  <VERSION>353</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+  <ILR type="hypernym">100</ILR>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>mahali</WORD>
+    <WORD>mahala</WORD>
+    <WORD>janibu</WORD>
+    <WORD>kao</WORD>
+    <WORD>nafasi</WORD>
+    <LITERAL sense="1" lnote="">mahali</LITERAL>
+    <LITERAL sense="1" lnote="">mahala</LITERAL>
+    <LITERAL sense="1" lnote="">janibu</LITERAL>
+    <LITERAL sense="1" lnote="">kao</LITERAL>
+    <LITERAL sense="1" lnote="">nafasi</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (pa-/ku-/mu-)</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-15 14:21:09</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>81</ID>
+  <DEF>neno lenye matumizi mbalimbali kwa maana ya sehemu ya ulimwengu</DEF>
+  <STAMP>vomondi 2023-08-15 14:21:09</STAMP>
+  <VERSION>173</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>maji</WORD>
+    <LITERAL sense="1" lnote="">maji</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (ya-)</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-15 19:22:38</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-07935504-n</ID>
+  <DEF/>
+  <STAMP>vomondi 2023-08-15 19:22:38</STAMP>
+  <VERSION>202</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+  <ILR type="hypernym">eng-30-00021265-n</ILR>
+</SYNSET>
+<SYNSET>
+  <SNOTE/>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">makala</LITERAL>
+    <WORD>makala</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">238</ILR>
+  <POS>n</POS>
+  <ID>239</ID>
+  <DEF>habari zilizoandikwa kueleza jambo agh. kwenye gazeti, jarida au kitabu</DEF>
+  <STAMP>vomondi 2023-08-27 08:53:47</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>728</VERSION>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-14596700-n</ID>
+  <BCS/>
+  <ILR type="hypernym">eng-30-14580897-n</ILR>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <USAGE>malighafi nyingine muhimu kwa kiwanda hicho ni makaa ya mawe pamoja na chumvi</USAGE>
+  <STAMP>vomondi 2023-08-26 08:59:32</STAMP>
+  <DOMAIN/>
+  <VERSION>662</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">malighafi</LITERAL>
+    <WORD>malighafi</WORD>
+  </SYNONYM>
+  <DEF>mali ambayo hutumika kutengeneza kitu kingine</DEF>
+</SYNSET>
+<SYNSET>
+  <DOMAIN/>
+  <USAGE>Mama yangu anapenda ukulima zaidi.</USAGE>
+  <USAGE>Kitinda mimba wetu anafanana na Mama.</USAGE>
+  <VERSION>74</VERSION>
+  <ID>20</ID>
+  <ILR type="Slang"/>
+  <POS>n</POS>
+  <SYNONYM>
+    <LITERAL lnote="" sense="1">mama</LITERAL>
+    <LITERAL lnote="" sense="1">nina</LITERAL>
+    <WORD>mama</WORD>
+    <WORD>nina</WORD>
+  </SYNONYM>
+  <BCS/>
+  <SUMO type="hypernym">mother</SUMO>
+  <NL>false</NL>
+  <STAMP>vomondi 2023-07-20 23:22:29</STAMP>
+  <DEF>mzazi wa kike.</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-00020827-n</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-25 18:27:18</STAMP>
+  <DOMAIN/>
+  <VERSION>653</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">mata</LITERAL>
+    <LITERAL sense="1" lnote="">maada</LITERAL>
+    <WORD>mata</WORD>
+    <WORD>maada</WORD>
+  </SYNONYM>
+  <DEF>kitu kinachoweza kuonekana na kushikika</DEF>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>matokeo</WORD>
+    <LITERAL sense="1" lnote="">matokeo</LITERAL>
+  </SYNONYM>
+  <BCS/>
+  <CREATED>vomondi 2023-08-15 10:31:17</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>62</ID>
+  <DEF>Kitu ambacho kimetengenezwa na mtu au hali fulani</DEF>
+  <STAMP>vomondi 2023-08-15 10:31:17</STAMP>
+  <VERSION>142</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>maudhui</WORD>
+    <LITERAL sense="1" lnote="">maudhui</LITERAL>
+  </SYNONYM>
+  <BCS/>
+  <DOMAIN>fasihi</DOMAIN>
+  <SUMO type=""/>
+  <ID>100</ID>
+  <DEF>ni jumla ya mawazo yote yanayozungumzwa pamoja na mtazamo wa mwandishi juu ya mawazo hayo. hujumuisha mawazo pamoja na mafunzo mbalimbali yaliyomsukuma msanii hadi akatunga na kusanii kazi fulani ya kifasihi.</DEF>
+  <STAMP>vomondi 2023-08-17 09:22:29</STAMP>
+  <VERSION>360</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+  <ILR type="hypernym">eng-30-00033020-n</ILR>
+</SYNSET>
+<SYNSET>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">mawasiliano</LITERAL>
+    <WORD>mawasiliano</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-00002137-n</ILR>
+  <POS>n</POS>
+  <ID>eng-30-00033020-n</ID>
+  <DEF>upashanaji habari kwa njia mbalimbali k.v. simu, barua au teleksi</DEF>
+  <STAMP>vomondi 2023-08-30 10:03:23</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>934</VERSION>
+</SYNSET>
+<SYNSET>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">mawasiliano andishi</LITERAL>
+    <WORD>mawasiliano</WORD>
+    <WORD>andishi</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-00033020-n</ILR>
+  <POS>n</POS>
+  <ID>eng-30-06349220-n</ID>
+  <DEF>mawasiliano kupitia njia ya uandishi</DEF>
+  <STAMP>vomondi 2023-08-27 17:29:50</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>738</VERSION>
+</SYNSET>
+<SYNSET>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="2" lnote="">mawasiliano ishara</LITERAL>
+    <WORD>mawasiliano</WORD>
+    <WORD>ishara</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">242</ILR>
+  <POS>n</POS>
+  <ID>245</ID>
+  <DEF>Hii ni aina ya mawasiliano, ambayo inajumuisha matumizi ya bendera za ishara, milio 21 ya bunduki, pembe, na ving'ora.</DEF>
+  <STAMP>vomondi 2023-08-27 17:38:25</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>743</VERSION>
+  <CREATED>vomondi 2023-08-27 17:38:25</CREATED>
+</SYNSET>
+<SYNSET>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">mawasiliano kiashiria</LITERAL>
+    <WORD>mawasiliano</WORD>
+    <WORD>kiashiria</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">242</ILR>
+  <POS>n</POS>
+  <ID>246</ID>
+  <DEF>Hii ni aina ya mawasiliano ambayo inatumia alama za kidini, hadhi, au za kujenga nafsi.</DEF>
+  <STAMP>vomondi 2023-08-27 17:40:04</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>744</VERSION>
+  <CREATED>vomondi 2023-08-27 17:40:04</CREATED>
+</SYNSET>
+<SYNSET>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">mawasiliano kimwili</LITERAL>
+    <WORD>mawasiliano</WORD>
+    <WORD>kimwili</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">242</ILR>
+  <POS>n</POS>
+  <ID>243</ID>
+  <DEF>Hii ni aina ya mawasiliano ya binafsi. Mawasiliano hayo yanahusisha ishara za uso, toni ya sauti, kugusa, kunusa, na miondoko ya mwili.</DEF>
+  <STAMP>vomondi 2023-08-27 17:35:56</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>741</VERSION>
+</SYNSET>
+<SYNSET>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">mawasiliano kwa ishara</LITERAL>
+    <WORD>mawasiliano</WORD>
+    <WORD>kwa</WORD>
+    <WORD>ishara</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-00033020-n</ILR>
+  <POS>n</POS>
+  <ID>242</ID>
+  <DEF>ni mchakato wa kuwasiliana kwa njia ya kutuma na kupokea ujumbe usiohusisha maneno. Ujumbe kama huo unaweza kuwasilishwa kupitia ishara za uso au mikono, miondoko ya mwili au jinsi ya kukaa; ishara ya uso na kutazamana machoni, mawasiliano kwa njia ya vitu, kama vile mavazi uliyovalia, jinsi ulivyotengeza nywele, au hata kwa michoro, pia kupitia jumla ya njia zilizoandikwa hapo juu, kama vile mawasiliano kupitia tabia. Mawasiliano kwa ishara huwa na jukumu muhimu katika maisha ya kila siku ya kila mtu, iwe ni katika uhusiano wa kiajira hadi wa kimapenzi.</DEF>
+  <STAMP>vomondi 2023-08-27 17:33:05</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>739</VERSION>
+  <CREATED>vomondi 2023-08-27 17:33:05</CREATED>
+</SYNSET>
+<SYNSET>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">mawasiliano ujumi</LITERAL>
+    <WORD>mawasiliano</WORD>
+    <WORD>ujumi</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">242</ILR>
+  <POS>n</POS>
+  <ID>244</ID>
+  <DEF>Hii ni aina ya mawasiliano ambayo hufanyika kupitia njia za ubunifu: kucheza ala ya muziki, dansi, uchoraji na uchongaji.</DEF>
+  <STAMP>vomondi 2023-08-27 17:37:06</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>742</VERSION>
+  <CREATED>vomondi 2023-08-27 17:37:06</CREATED>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>mbinu</WORD>
+    <LITERAL sense="1" lnote="">mbinu</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-17 10:00:31</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-05660268-n</ID>
+  <DEF>ni  hatua zinazofuatwa ili kufanya hadi kukamilisha kazi, jukumu au tendo fulani.</DEF>
+  <STAMP>vomondi 2023-08-17 10:00:31</STAMP>
+  <VERSION>365</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>mchanganyiko</WORD>
+    <LITERAL sense="1" lnote="">mchanganyiko</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (u-/i-)</SNOTE>
+  <SNOTE>umoja (singular) - mchanganyiko</SNOTE>
+  <SNOTE>wingi (plural) - michanganyiko</SNOTE>
+  <BCS/>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-14586258-n</ID>
+  <DEF>mkusanyiko wa pamoja wa vitu</DEF>
+  <STAMP>vomondi 2023-08-18 10:36:05</STAMP>
+  <VERSION>409</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>mfanyakazi</WORD>
+    <WORD>mtumishi</WORD>
+    <WORD>mwajiriwa</WORD>
+    <LITERAL sense="1" lnote="">mfanyakazi</LITERAL>
+    <LITERAL sense="1" lnote="">mtumishi</LITERAL>
+    <LITERAL sense="1" lnote="">mwajiriwa</LITERAL>
+  </SYNONYM>
+  <BCS/>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-09632518-n</ID>
+  <DEF>mtu anayefanya kazi au kibarua</DEF>
+  <STAMP>vomondi 2023-08-16 11:27:55</STAMP>
+  <VERSION>265</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+  <ILR type="hypernym">eng-30-00007846-n</ILR>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>mfuo</WORD>
+    <LITERAL sense="2" lnote="">mfuo</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (u-/i-)</SNOTE>
+  <SNOTE>wingi (plural) - mifuo</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-15 14:50:11</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>84</ID>
+  <DEF>mstari agh. wa maandishi: Chora ~ shambani fanya mstari shambani kwa ajili ya kupanda mbegu</DEF>
+  <STAMP>vomondi 2023-08-15 14:50:11</STAMP>
+  <VERSION>178</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>mfuo</WORD>
+    <LITERAL sense="3" lnote="">mfuo</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (u-/i-)</SNOTE>
+  <SNOTE>wingi (plural) - mifuo</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-15 14:52:08</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>85</ID>
+  <DEF>hali au tendo la kusafisha nguo</DEF>
+  <STAMP>vomondi 2023-08-15 14:52:08</STAMP>
+  <VERSION>179</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>mfuo</WORD>
+    <LITERAL sense="4" lnote="">mfuo</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (u-/i-)</SNOTE>
+  <SNOTE>wingi (plural) - mifuo</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-15 14:54:06</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>86</ID>
+  <DEF>mtindo wa utengenezaji wa vitu vya mapambo vitokanavyo na madini</DEF>
+  <STAMP>vomondi 2023-08-15 14:54:06</STAMP>
+  <VERSION>180</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>mfuo</WORD>
+    <LITERAL sense="1" lnote="">mfuo</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (u-/i-)</SNOTE>
+  <SNOTE>wingi (plural) - mifuo</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-15 14:44:20</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>83</ID>
+  <DEF>chombo cha seremala cha kufanyizia matundu mapana</DEF>
+  <STAMP>vomondi 2023-08-15 14:44:20</STAMP>
+  <VERSION>177</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>migogoro</WORD>
+    <LITERAL sense="1" lnote="">migogoro</LITERAL>
+  </SYNONYM>
+  <BCS/>
+  <CREATED>vomondi 2023-08-17 08:19:50</CREATED>
+  <DOMAIN>fasihi</DOMAIN>
+  <SUMO type=""/>
+  <ID>104</ID>
+  <DEF>hii ni mivutano na misuguano mbalimbali katika kazi za fasihi. Migogoro inaweza kuwa kati ya wahusika, familia zao, matabaka yao, au hata katika nyadhifa mbalimbali. Vilevile migogoro yaweza kuwa ya kiuchumi, kijamii, mogogoro ya nafsi, na migogoro ya kisiasa ambayo hujitokeza katika mitazamo tofauti kulingana na mtiririko wa visa na matukio yanavyopangwa na mwandishi.</DEF>
+  <STAMP>vomondi 2023-08-17 08:19:50</STAMP>
+  <VERSION>346</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+  <ILR type="hypernym">100</ILR>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">milki</LITERAL>
+    <WORD>milki</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-00031921-n</ILR>
+  <POS>n</POS>
+  <ID>eng-30-00032613-n</ID>
+  <DEF>jumla ya mali aliyonayo mtu au shirika fulani</DEF>
+  <STAMP>vomondi 2023-08-27 19:50:05</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>762</VERSION>
+  <CREATED>vomondi 2023-08-27 19:50:05</CREATED>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (u-/i-) (mi-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">mkataba</LITERAL>
+    <WORD>mkataba</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-06470073-n</ILR>
+  <POS>n</POS>
+  <ID>235</ID>
+  <DEF>makubaliano yanayofikiwa kwa kuandikiana baina ya watu au vikundi viwili au zaidi ili kufanya jambo au kazi fulani</DEF>
+  <STAMP>vomondi 2023-08-27 08:24:45</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>718</VERSION>
+  <CREATED>vomondi 2023-08-27 08:24:45</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>186</ID>
+  <BCS/>
+  <SNOTE>Ngeli (u-/i-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-25 08:40:47</STAMP>
+  <DOMAIN/>
+  <VERSION>592</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">mkondo</LITERAL>
+    <WORD>mkondo</WORD>
+  </SYNONYM>
+  <DEF>njia ya maji kv katika bahari, mto au ziwa inayopitisha maji kwa kasi na kwa nguvu</DEF>
+  <CREATED>vomondi 2023-08-25 08:40:47</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>189</ID>
+  <BCS/>
+  <SNOTE>Ngeli (u-/i-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-25 08:45:50</STAMP>
+  <DOMAIN/>
+  <VERSION>595</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="4" lnote="">mkondo</LITERAL>
+    <WORD>mkondo</WORD>
+  </SYNONYM>
+  <DEF>njia ya mawimbi ya umeme au sauti inayowezesha kuvisafirisha vitu hyo mpaka pale vinapoitajika</DEF>
+  <CREATED>vomondi 2023-08-25 08:45:50</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>188</ID>
+  <BCS/>
+  <SNOTE>Ngeli (u-/i-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-25 08:43:20</STAMP>
+  <DOMAIN/>
+  <VERSION>594</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="3" lnote="">mkondo</LITERAL>
+    <WORD>mkondo</WORD>
+  </SYNONYM>
+  <DEF>mchepuo k.v katika madarasa, masomo</DEF>
+  <CREATED>vomondi 2023-08-25 08:43:20</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>187</ID>
+  <BCS/>
+  <SNOTE>Ngeli (u-/i-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-25 08:42:13</STAMP>
+  <DOMAIN/>
+  <VERSION>593</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="2" lnote="">mkondo</LITERAL>
+    <WORD>mkondo</WORD>
+  </SYNONYM>
+  <DEF>njia isiyo ya kawaida inayofanywa na mtu au mnyama katika nyasi</DEF>
+  <CREATED>vomondi 2023-08-25 08:42:13</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>191</ID>
+  <BCS/>
+  <ILR type="hypernym">189</ILR>
+  <SNOTE/>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-25 08:59:54</STAMP>
+  <DOMAIN/>
+  <VERSION>602</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">mkondogeu</LITERAL>
+    <WORD>mkondogeu</WORD>
+  </SYNONYM>
+  <DEF>njia ya umeme unaobadilishabailisha mwelekeo mara kwa mara</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>190</ID>
+  <BCS/>
+  <ILR type="hypernym">189</ILR>
+  <SNOTE>Ngeli (u-/i-) (mi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-25 08:53:08</STAMP>
+  <DOMAIN/>
+  <VERSION>599</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">mkondohewa</LITERAL>
+    <WORD>mkondohewa</WORD>
+  </SYNONYM>
+  <DEF>njia amabayo hewa zenye joto tofauti husafiria</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>192</ID>
+  <BCS/>
+  <ILR type="hypernym">189</ILR>
+  <ILR type="near_antonym/kinyume">191</ILR>
+  <SNOTE>Ngeli (u-/i-) (mi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-25 08:58:08</STAMP>
+  <DOMAIN/>
+  <VERSION>601</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">mkondonyofu</LITERAL>
+    <WORD>mkondonyofu</WORD>
+  </SYNONYM>
+  <DEF>njia ya umeme usiobadilishabadilisha uelekeo</DEF>
+  <CREATED>vomondi 2023-08-25 08:58:08</CREATED>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>mnyama</WORD>
+    <WORD>hayawani</WORD>
+    <WORD>bahaimu</WORD>
+    <LITERAL sense="1" lnote="">mnyama</LITERAL>
+    <LITERAL sense="1" lnote="">hayawani</LITERAL>
+    <LITERAL sense="1" lnote="">bahaimu</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (a-/wa-)</SNOTE>
+  <SNOTE>umoja (singular) - mnyama</SNOTE>
+  <SNOTE>wingi (plural) - wanyama</SNOTE>
+  <BCS/>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <USAGE>mbuzi ni mnyama anayefugwa nyumbani</USAGE>
+  <ID>eng-30-00015388-n</ID>
+  <DEF>kiumbe chenye uhai kisichokuwa mtu, mti au mdudu</DEF>
+  <STAMP>vomondi 2023-08-16 13:26:49</STAMP>
+  <VERSION>269</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+  <ILR type="hypernym">eng-30-00004475-n</ILR>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>mpaka</WORD>
+    <LITERAL sense="2" lnote="">mpaka</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (u-/i-)</SNOTE>
+  <SNOTE>wingi (plural) - mipaka</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-14 16:34:44</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>55</ID>
+  <DEF>tamko linalotumiwa pamoja na shamirisho k.m. ~ rangi/chokaa</DEF>
+  <STAMP>vomondi 2023-08-14 16:34:44</STAMP>
+  <VERSION>133</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>mpaka</WORD>
+    <WORD>kikomo</WORD>
+    <WORD>mwisho</WORD>
+    <LITERAL sense="1" lnote="">mpaka</LITERAL>
+    <LITERAL sense="1" lnote="">kikomo</LITERAL>
+    <LITERAL sense="1" lnote="">mwisho</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (u-/i-)</SNOTE>
+  <SNOTE>wingi (plural) - mipaka</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-14 16:31:55</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-08512259-n</ID>
+  <DEF>mahali ambapo ni kikomo cha kitu na kingine k.v. shamba</DEF>
+  <STAMP>vomondi 2023-08-14 16:31:55</STAMP>
+  <VERSION>132</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>msimamo</WORD>
+    <LITERAL sense="1" lnote="">msimamo</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (u-/i-)</SNOTE>
+  <SNOTE>wingi (plural) - misimamo</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-17 08:39:50</CREATED>
+  <DOMAIN>fasihi</DOMAIN>
+  <SUMO type=""/>
+  <ID>108</ID>
+  <DEF>hali ya mwandishi kuamua kufuata na kushikilia jambo fulani.</DEF>
+  <STAMP>vomondi 2023-08-17 08:39:50</STAMP>
+  <VERSION>350</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+  <ILR type="hypernym">100</ILR>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-14818238-n</ID>
+  <BCS/>
+  <SNOTE>Ngeli (u-/i-) (mi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-25 19:11:54</STAMP>
+  <DOMAIN>kemia</DOMAIN>
+  <VERSION>656</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">msombo</LITERAL>
+    <WORD>msombo</WORD>
+  </SYNONYM>
+  <DEF>mchanganyiko wa aina mbalimbali za kemikali</DEF>
+  <CREATED>vomondi 2023-08-25 19:11:54</CREATED>
+</SYNSET>
+<SYNSET>
+  <SNOTE/>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">mstari</LITERAL>
+    <WORD>mstari</WORD>
+  </SYNONYM>
+  <BCS/>
+  <POS>n</POS>
+  <ID>eng-30-13863771-n</ID>
+  <DEF>mwendelezo wa mchoro ulionyoka</DEF>
+  <STAMP>vomondi 2023-08-27 19:32:02</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>756</VERSION>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>mtazamo</WORD>
+    <LITERAL sense="2" lnote="">mtazamo</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (u-/i-)</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-17 10:38:38</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-06193203-n</ID>
+  <DEF/>
+  <STAMP>vomondi 2023-08-17 10:38:38</STAMP>
+  <VERSION>369</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>mtazamo</WORD>
+    <LITERAL sense="1" lnote="">mtazamo</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (u-/i-)</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-17 08:44:37</CREATED>
+  <DOMAIN>fasihi</DOMAIN>
+  <SUMO type=""/>
+  <ID>110</ID>
+  <DEF>ni hisia au uelewa wa mwandishi juu ya jambo fulani. Kwa mfano anaweza kutazama jambo fulani kwa mtazamo wa kidini, au anaweza kutazama jambo fulani kwa mtazamo wa kisiasa au kisayansi.</DEF>
+  <STAMP>vomondi 2023-08-17 08:44:37</STAMP>
+  <VERSION>352</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+  <ILR type="hypernym">100</ILR>
+</SYNSET>
+<SYNSET>
+  <STAMP>vomondi 2023-07-24 11:13:55</STAMP>
+  <CREATED>vomondi 2023-07-24 11:13:55</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <BCS/>
+  <ID>21</ID>
+  <POS>n</POS>
+  <VERSION>75</VERSION>
+  <DEF/>
+  <NL>false</NL>
+  <SYNONYM>
+    <WORD>mtoto</WORD>
+    <WORD>mtoi</WORD>
+    <LITERAL sense="1" lnote="">mtoto</LITERAL>
+    <LITERAL sense="1" lnote="">mtoi</LITERAL>
+  </SYNONYM>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>mtu</WORD>
+    <LITERAL sense="1" lnote="">mtu</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (a-/wa-)</SNOTE>
+  <SNOTE>wingi (plural) - watu</SNOTE>
+  <BCS/>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-00007846-n</ID>
+  <DEF>mwanadamu</DEF>
+  <STAMP>vomondi 2023-08-16 11:12:15</STAMP>
+  <VERSION>258</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+  <ILR type="hypernym">eng-30-00004475-n</ILR>
+</SYNSET>
+<SYNSET>
+  <ID>206</ID>
+  <BCS/>
+  <SNOTE>Ngeli (u-/i-)</SNOTE>
+  <SNOTE>Ngeli (u-/zi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-25 11:04:30</STAMP>
+  <DOMAIN/>
+  <VERSION>628</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">muda</LITERAL>
+    <LITERAL sense="1" lnote="">mwia</LITERAL>
+    <WORD>muda</WORD>
+    <WORD>mwia</WORD>
+  </SYNONYM>
+  <DEF>kipindi cha wakati maalum baina ya saa, siku, miaka.</DEF>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (u-/i-) (mi-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="2" lnote="">mungu</LITERAL>
+    <WORD>mungu</WORD>
+  </SYNONYM>
+  <BCS/>
+  <POS>n</POS>
+  <ID>eng-30-09505418-n</ID>
+  <DEF>chochote kinachoabudiwa na binadamu kwa kuamini kuwa kina uwezo wa kumsaidia au kumtimizia mahitaji yake</DEF>
+  <STAMP>vomondi 2023-08-30 06:42:54</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>861</VERSION>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>muundo</WORD>
+    <LITERAL sense="1" lnote="">muundo</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (u-/i-)</SNOTE>
+  <SNOTE>wingi (plural) - miundo</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-17 10:32:08</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>116</ID>
+  <DEF/>
+  <STAMP>vomondi 2023-08-17 10:32:08</STAMP>
+  <VERSION>368</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (u-/i-) (mi-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">mwanya</LITERAL>
+    <LITERAL sense="1" lnote="">upenyo</LITERAL>
+    <WORD>mwanya</WORD>
+    <WORD>upenyo</WORD>
+  </SYNONYM>
+  <BCS/>
+  <POS>n</POS>
+  <ID>eng-30-09379111-n</ID>
+  <DEF>nafasi nyembamba iliyopo baina ya vitu viwili</DEF>
+  <STAMP>vomondi 2023-08-27 21:32:03</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>787</VERSION>
+</SYNSET>
+<SYNSET>
+  <ID>201</ID>
+  <BCS/>
+  <SNOTE>Ngeli (u-/i-) (mi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-25 09:50:28</STAMP>
+  <DOMAIN/>
+  <VERSION>616</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="3" lnote="">mwelekeo</LITERAL>
+    <WORD>mwelekeo</WORD>
+  </SYNONYM>
+  <DEF>malengo ya mtu, taasisi au nchi ambayo yanatawala shughuli au uamuzi wa kila siku</DEF>
+  <CREATED>vomondi 2023-08-25 09:50:28</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>200</ID>
+  <BCS/>
+  <SNOTE>Ngeli (u-/i-) (mi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-25 09:48:46</STAMP>
+  <DOMAIN/>
+  <VERSION>615</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="2" lnote="">mwelekeo</LITERAL>
+    <WORD>mwelekeo</WORD>
+  </SYNONYM>
+  <DEF>sehemu ambapo fikira zinaelekezwa</DEF>
+  <CREATED>vomondi 2023-08-25 09:48:46</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>199</ID>
+  <BCS/>
+  <SNOTE>Ngeli (u-/i-) (mi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-25 09:47:46</STAMP>
+  <DOMAIN/>
+  <VERSION>614</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">mwelekeo</LITERAL>
+    <WORD>mwelekeo</WORD>
+  </SYNONYM>
+  <DEF>upande kitu kinakoelekea kwenda</DEF>
+  <CREATED>vomondi 2023-08-25 09:47:46</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>165</ID>
+  <BCS/>
+  <SNOTE>Ngeli (u-/i-) (mi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-25 09:07:34</STAMP>
+  <DOMAIN/>
+  <VERSION>604</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="2" lnote="">mwendo</LITERAL>
+    <WORD>mwendo</WORD>
+  </SYNONYM>
+  <DEF>mazoea au matendo ya kawaida ya mtu, namna anavyoishi, n.k ni mwenendo au mwendo wake</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-00279835-n</ID>
+  <BCS/>
+  <SNOTE>Ngeli (u-/i-) (mi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-25 09:07:10</STAMP>
+  <DOMAIN/>
+  <VERSION>603</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">mwendo</LITERAL>
+    <WORD>mwendo</WORD>
+  </SYNONYM>
+  <DEF>namna ya kwenda</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>193</ID>
+  <BCS/>
+  <ILR type="hypernym">eng-30-00279835-n</ILR>
+  <SNOTE>Ngeli (u-/i-) (mi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-25 09:10:45</STAMP>
+  <DOMAIN/>
+  <VERSION>605</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">mwendokasi</LITERAL>
+    <WORD>mwendokasi</WORD>
+  </SYNONYM>
+  <DEF>namna ya uendeshaji kwa haraka</DEF>
+  <CREATED>vomondi 2023-08-25 09:10:45</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>194</ID>
+  <BCS/>
+  <ILR type="hypernym">165</ILR>
+  <SNOTE>Ngeli (u-/i-) (mi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-25 09:13:19</STAMP>
+  <DOMAIN/>
+  <VERSION>606</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">mwenendo</LITERAL>
+    <WORD>mwenendo</WORD>
+  </SYNONYM>
+  <DEF>matendo ya mtu yanayojirudiarudia</DEF>
+  <CREATED>vomondi 2023-08-25 09:13:19</CREATED>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>mwili</WORD>
+    <WORD>jisimu</WORD>
+    <WORD>umbo</WORD>
+    <LITERAL sense="1" lnote="">mwili</LITERAL>
+    <LITERAL sense="1" lnote="">jisimu</LITERAL>
+    <LITERAL sense="1" lnote="">umbo</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (u-/i-)</SNOTE>
+  <SNOTE>wingi (plural) - mili</SNOTE>
+  <BCS/>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <USAGE>mtoto yule ana mwili wa kuvutia</USAGE>
+  <ID>eng-30-05216365-n</ID>
+  <DEF>umbo zima la mwanadamu au mnyama kutoka kichwa mpaka miguu</DEF>
+  <STAMP>vomondi 2023-08-16 10:30:20</STAMP>
+  <VERSION>237</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+  <ILR type="hypernym">eng-30-00019128-n</ILR>
+</SYNSET>
+<SYNSET>
+  <ID>203</ID>
+  <BCS/>
+  <SNOTE>Ngeli (u-/i-) (mi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-25 09:57:53</STAMP>
+  <DOMAIN/>
+  <VERSION>618</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="2" lnote="">mwongozo</LITERAL>
+    <WORD>mwongozo</WORD>
+  </SYNONYM>
+  <DEF>maelekezo rasmi yanayosimamia utekelezaji wa shughuli fulani</DEF>
+  <CREATED>vomondi 2023-08-25 09:57:53</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>202</ID>
+  <BCS/>
+  <SNOTE>Ngeli (u-/i-) (mi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-25 09:56:34</STAMP>
+  <DOMAIN/>
+  <VERSION>617</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">mwongozo</LITERAL>
+    <WORD>mwongozo</WORD>
+  </SYNONYM>
+  <DEF>mpango unaotolewa kwa mdomo au maandishi kuwaelekeza watu wengine kutekeleza kazi fulani</DEF>
+  <CREATED>vomondi 2023-08-25 09:56:34</CREATED>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>mzazi</WORD>
+    <LITERAL sense="1" lnote="">mzazi</LITERAL>
+  </SYNONYM>
+  <BCS/>
+  <DOMAIN/>
+  <SUMO type="">parent</SUMO>
+  <USAGE>mzazi wake amekufa</USAGE>
+  <ID>26</ID>
+  <DEF>mama au baba wa mtu</DEF>
+  <STAMP>deb 2023-08-16 14:38:06</STAMP>
+  <VERSION>282</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+  <ILR type="hypernym">20</ILR>
+</SYNSET>
+<SYNSET>
+  <ID>195</ID>
+  <BCS/>
+  <SNOTE>Ngeli (u-/i-) (mi-)</SNOTE>
+  <SNOTE>Ngeli (u-/i-) (mi-)</SNOTE>
+  <SNOTE>Ngeli (u-/i-) (mi-)</SNOTE>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-25 09:23:13</STAMP>
+  <DOMAIN/>
+  <VERSION>608</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">mzunguko</LITERAL>
+    <LITERAL sense="1" lnote="">mzingo</LITERAL>
+    <LITERAL sense="1" lnote="">mviringo</LITERAL>
+    <LITERAL sense="1" lnote="">duara</LITERAL>
+    <WORD>mzunguko</WORD>
+    <WORD>mzingo</WORD>
+    <WORD>mviringo</WORD>
+    <WORD>duara</WORD>
+  </SYNONYM>
+  <DEF>mwendo unaofnaya duara</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>180</ID>
+  <BCS/>
+  <ILR type="hypernym">eng-30-00031921-n</ILR>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SNOTE>Ngeli (u-/u-)</SNOTE>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-24 15:57:14</STAMP>
+  <DOMAIN/>
+  <VERSION>571</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">nasaba</LITERAL>
+    <LITERAL sense="1" lnote="">uzao</LITERAL>
+    <LITERAL sense="1" lnote="">jadi</LITERAL>
+    <WORD>nasaba</WORD>
+    <WORD>uzao</WORD>
+    <WORD>jadi</WORD>
+  </SYNONYM>
+  <DEF>uhusiano wa kizazi baina ya watu; uhusiano kutoka katika mlango au ukoo mmoja</DEF>
+  <CREATED>vomondi 2023-08-24 15:57:14</CREATED>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>ncha</WORD>
+    <WORD>kikomo</WORD>
+    <WORD>mwisho</WORD>
+    <LITERAL sense="1" lnote="">ncha</LITERAL>
+    <LITERAL sense="2" lnote="">kikomo</LITERAL>
+    <LITERAL sense="2" lnote="">mwisho</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-14 16:49:22</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-08568978-n</ID>
+  <DEF>sehemu ya mwisho ya kitu</DEF>
+  <STAMP>vomondi 2023-08-14 16:49:22</STAMP>
+  <VERSION>134</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (li-/ya-) (ma-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">neno</LITERAL>
+    <WORD>neno</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-06284225-n</ILR>
+  <POS>n</POS>
+  <ID>eng-30-06286395-n</ID>
+  <DEF>mkusanyiko wa sauti zinazotamkwa au kuandikwa pamoja na kuleta maana.</DEF>
+  <STAMP>vomondi 2023-08-27 17:49:39</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>745</VERSION>
+  <CREATED>vomondi 2023-08-27 17:49:39</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>130</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-21 11:10:17</STAMP>
+  <DOMAIN/>
+  <VERSION>427</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">ngoeka</LITERAL>
+    <LITERAL sense="1" lnote="">koeka</LITERAL>
+    <LITERAL sense="2" lnote="">chochea</LITERAL>
+    <WORD>ngoeka</WORD>
+    <WORD>koeka</WORD>
+    <WORD>chochea</WORD>
+  </SYNONYM>
+  <DEF>shika kitu k.v embe, chungwa, n.k kwa mti au fimbo yenye panda ili kuchuma kutoka mtini; teremsha kitu kutoka mtini kutumia upembo</DEF>
+  <CREATED>vomondi 2023-08-21 11:10:17</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-03051540-n</ID>
+  <BCS/>
+  <ILR type="hypernym">eng-30-03122748-n</ILR>
+  <SNOTE>Ngeli (i-/zi-) (nguo)</SNOTE>
+  <SNOTE>Ngeli (li-/ya-) (mavazi)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-22 08:55:04</STAMP>
+  <DOMAIN/>
+  <VERSION>519</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">nguo</LITERAL>
+    <LITERAL sense="1" lnote="">vazi</LITERAL>
+    <WORD>nguo</WORD>
+    <WORD>vazi</WORD>
+  </SYNONYM>
+  <DEF>vazi litumikalo kusitiri mwili wa binadamu na kumkinga kutokana na jua na baridi</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-02604760-v</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <USAGE>yeye ni mgonjwa</USAGE>
+  <USAGE>Juma ni tajiri</USAGE>
+  <STAMP>vomondi 2023-08-24 09:58:03</STAMP>
+  <DOMAIN/>
+  <VERSION>528</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">ni</LITERAL>
+    <WORD>ni</WORD>
+  </SYNONYM>
+  <DEF>neno linaloainisha ukubaliano wa kitu au hali katika wakati uliopo</DEF>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>njia</WORD>
+    <WORD>raste</WORD>
+    <WORD>baraste</WORD>
+    <WORD>usita</WORD>
+    <LITERAL sense="1" lnote="">njia</LITERAL>
+    <LITERAL sense="1" lnote="">raste</LITERAL>
+    <LITERAL sense="1" lnote="">baraste</LITERAL>
+    <LITERAL sense="1" lnote="">usita</LITERAL>
+  </SYNONYM>
+  <BCS/>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-08616311-n</ID>
+  <DEF>sehemu inayotumiwa ili kupitia</DEF>
+  <STAMP>vomondi 2023-08-15 14:11:12</STAMP>
+  <VERSION>172</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+  <ILR type="hypernym">80</ILR>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>nyenzo</WORD>
+    <LITERAL sense="1" lnote="">nyenzo</LITERAL>
+  </SYNONYM>
+  <BCS/>
+  <CREATED>vomondi 2023-08-14 14:03:02</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-14580897-n</ID>
+  <DEF>vitu vya kutengenezea/kujengea vitu vingine ~mali ghafi</DEF>
+  <STAMP>vomondi 2023-08-14 14:03:02</STAMP>
+  <VERSION>115</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <ID>149</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-21 13:17:20</STAMP>
+  <DOMAIN/>
+  <VERSION>464</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">ondoa</LITERAL>
+    <LITERAL sense="1" lnote="">hamisha</LITERAL>
+    <LITERAL sense="1" lnote="">sanzua</LITERAL>
+    <LITERAL sense="1" lnote="">toa</LITERAL>
+    <LITERAL sense="1" lnote="">tenga</LITERAL>
+    <LITERAL sense="1" lnote="">badili</LITERAL>
+    <WORD>ondoa</WORD>
+    <WORD>hamisha</WORD>
+    <WORD>sanzua</WORD>
+    <WORD>toa</WORD>
+    <WORD>tenga</WORD>
+    <WORD>badili</WORD>
+  </SYNONYM>
+  <DEF>hamisha kitu kutoka mahali pamoja hadi kwingine</DEF>
+  <CREATED>vomondi 2023-08-21 13:17:20</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>150</ID>
+  <BCS/>
+  <SNOTE>suffix(kiambishi tamati) = [~lea, ~ka, ~sha, ~elewa, ~ana]</SNOTE>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-21 13:20:12</STAMP>
+  <DOMAIN/>
+  <VERSION>465</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="2" lnote="">ondoa</LITERAL>
+    <WORD>ondoa</WORD>
+  </SYNONYM>
+  <DEF>fanya isiweko</DEF>
+  <CREATED>vomondi 2023-08-21 13:20:12</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-00153263-v</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-21 09:47:45</STAMP>
+  <DOMAIN/>
+  <VERSION>423</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">ongeza</LITERAL>
+    <WORD>ongeza</WORD>
+  </SYNONYM>
+  <DEF>kufanya kuwa zaidi au nyingi zaidi</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>151</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-21 13:27:38</STAMP>
+  <DOMAIN/>
+  <VERSION>466</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">opoa</LITERAL>
+    <WORD>opoa</WORD>
+  </SYNONYM>
+  <DEF>toa kitu kilicho ndani ya kitu cha majimaji</DEF>
+  <CREATED>vomondi 2023-08-21 13:27:38</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>152</ID>
+  <BCS/>
+  <SNOTE>suffix(kiambishi tamati) = [~lea, ~leka, ~sha, ~lewa, ~ana]</SNOTE>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-21 13:31:27</STAMP>
+  <DOMAIN/>
+  <VERSION>467</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="2" lnote="">opoa</LITERAL>
+    <LITERAL sense="1" lnote="">topoa</LITERAL>
+    <LITERAL sense="1" lnote="">gangua</LITERAL>
+    <LITERAL sense="1" lnote="">agua</LITERAL>
+    <WORD>opoa</WORD>
+    <WORD>topoa</WORD>
+    <WORD>gangua</WORD>
+    <WORD>agua</WORD>
+  </SYNONYM>
+  <DEF>toa katika hali ya ugunjwa kwa kufanyia dawa</DEF>
+  <CREATED>vomondi 2023-08-21 13:31:27</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-02199590-v</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <USAGE>amenipa pesa</USAGE>
+  <STAMP>vomondi 2023-08-21 14:05:35</STAMP>
+  <DOMAIN/>
+  <VERSION>468</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">pa</LITERAL>
+    <LITERAL sense="2" lnote="">toa</LITERAL>
+    <LITERAL sense="1" lnote="">kabidhi</LITERAL>
+    <WORD>pa</WORD>
+    <WORD>toa</WORD>
+    <WORD>kabidhi</WORD>
+  </SYNONYM>
+  <DEF>toa kitu ili mwingine apate</DEF>
+  <CREATED>vomondi 2023-08-21 14:05:35</CREATED>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (li-/ya-) (ma-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">pambo</LITERAL>
+    <WORD>pambo</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-00021939-n</ILR>
+  <POS>n</POS>
+  <ID>eng-30-03169390-n</ID>
+  <DEF>kitu kinachoongeza uzuri</DEF>
+  <STAMP>vomondi 2023-08-29 23:23:22</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>849</VERSION>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SNOTE>Ngeli (li-/ya-) (ma-)</SNOTE>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="3" lnote="">pesa</LITERAL>
+    <LITERAL sense="1" lnote="">fedha</LITERAL>
+    <LITERAL sense="1" lnote="">hela</LITERAL>
+    <LITERAL sense="1" lnote="">ghawazi</LITERAL>
+    <LITERAL sense="1" lnote="">ndarama</LITERAL>
+    <LITERAL sense="1" lnote="">dirhamu</LITERAL>
+    <LITERAL sense="1" lnote="">fulusii</LITERAL>
+    <LITERAL sense="1" lnote="">gome</LITERAL>
+    <LITERAL sense="1" lnote="">mbango</LITERAL>
+    <LITERAL sense="1" lnote="">mbuda</LITERAL>
+    <WORD>pesa</WORD>
+    <WORD>fedha</WORD>
+    <WORD>hela</WORD>
+    <WORD>ghawazi</WORD>
+    <WORD>ndarama</WORD>
+    <WORD>dirhamu</WORD>
+    <WORD>fulusii</WORD>
+    <WORD>gome</WORD>
+    <WORD>mbango</WORD>
+    <WORD>mbuda</WORD>
+  </SYNONYM>
+  <BCS/>
+  <POS>n</POS>
+  <ID>eng-30-13384557-n</ID>
+  <DEF>sarufi na noti zinazotolewa au kuidhinishwa na serikali au benki kuwa ni fedha rasmi na halali za kubadilishana na bidhaa zinazonunuliwa au mahitaji na huduma zinazotakiwa</DEF>
+  <STAMP>vomondi 2023-08-27 18:27:20</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>752</VERSION>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="2" lnote="">pesa</LITERAL>
+    <WORD>pesa</WORD>
+  </SYNONYM>
+  <BCS/>
+  <POS>n</POS>
+  <ID>250</ID>
+  <DEF>sarufi yenye thamani ya senti tatu.</DEF>
+  <STAMP>vomondi 2023-08-27 18:08:06</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>750</VERSION>
+  <CREATED>vomondi 2023-08-27 18:08:06</CREATED>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">pesa</LITERAL>
+    <WORD>pesa</WORD>
+  </SYNONYM>
+  <BCS/>
+  <POS>n</POS>
+  <ID>249</ID>
+  <DEF>sarufi yenye thamani ya chini katika fedha za India</DEF>
+  <STAMP>vomondi 2023-08-27 18:06:55</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>749</VERSION>
+  <CREATED>vomondi 2023-08-27 18:06:55</CREATED>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>pointi</WORD>
+    <LITERAL sense="1" lnote="">pointi</LITERAL>
+  </SYNONYM>
+  <BCS/>
+  <CREATED>vomondi 2023-08-15 14:32:58</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-08620061-n</ID>
+  <DEF/>
+  <STAMP>vomondi 2023-08-15 14:32:58</STAMP>
+  <VERSION>174</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>pungua</WORD>
+    <WORD>punga</WORD>
+    <WORD>fifia</WORD>
+    <LITERAL sense="1" lnote="">pungua</LITERAL>
+    <LITERAL sense="1" lnote="">punga</LITERAL>
+    <LITERAL sense="1" lnote="">fifia</LITERAL>
+  </SYNONYM>
+  <BCS/>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-00151689-v</ID>
+  <DEF>kuwa ndogo zaidi ya kiwango kilichokutwa</DEF>
+  <STAMP>vomondi 2023-08-18 11:30:37</STAMP>
+  <VERSION>415</VERSION>
+  <NL>false</NL>
+  <POS>v</POS>
+</SYNSET>
+<SYNSET>
+  <DOMAIN/>
+  <USAGE>Nilikula kwenye kafeteria na sahibu wangu.</USAGE>
+  <USAGE>Nyaiko na Nyambane ni rafiki. Kila mara, wao hupatikana pamoja.</USAGE>
+  <VERSION>61</VERSION>
+  <ID>14</ID>
+  <POS>n</POS>
+  <SYNONYM>
+    <LITERAL lnote="" sense="1">rafiki</LITERAL>
+    <LITERAL lnote="" sense="1">msena</LITERAL>
+    <LITERAL lnote="" sense="1">mwandani</LITERAL>
+    <LITERAL lnote="" sense="1">mwandani</LITERAL>
+    <LITERAL lnote="" sense="1">bui</LITERAL>
+    <LITERAL lnote="" sense="1">muhibu</LITERAL>
+    <LITERAL lnote="" sense="1">sahibu</LITERAL>
+    <LITERAL lnote="" sense="1">somo</LITERAL>
+    <LITERAL lnote="" sense="1">mwenzi</LITERAL>
+    <LITERAL lnote="" sense="1">msiri</LITERAL>
+    <WORD>rafiki</WORD>
+    <WORD>msena</WORD>
+    <WORD>mwandani</WORD>
+    <WORD>mwandani</WORD>
+    <WORD>bui</WORD>
+    <WORD>muhibu</WORD>
+    <WORD>sahibu</WORD>
+    <WORD>somo</WORD>
+    <WORD>mwenzi</WORD>
+    <WORD>msiri</WORD>
+  </SYNONYM>
+  <BCS/>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <CREATED>vomondi 2023-07-20 18:06:23</CREATED>
+  <STAMP>vomondi 2023-07-20 18:06:23</STAMP>
+  <DEF>mtu anayeaminiana na kupendana namwingine</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-04956594-n</ID>
+  <BCS/>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-24 11:28:06</STAMP>
+  <DOMAIN/>
+  <VERSION>550</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">rangi</LITERAL>
+    <LITERAL sense="1" lnote="">launi</LITERAL>
+    <WORD>rangi</WORD>
+    <WORD>launi</WORD>
+  </SYNONYM>
+  <DEF>utambulisho wa miale ya nuru katika macho inapoingia kaitika kitu fulani</DEF>
+  <CREATED>vomondi 2023-08-24 11:28:06</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>219</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-25 17:43:46</STAMP>
+  <DOMAIN/>
+  <VERSION>652</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">ruhusu</LITERAL>
+    <LITERAL sense="1" lnote="">ijaza</LITERAL>
+    <WORD>ruhusu</WORD>
+    <WORD>ijaza</WORD>
+  </SYNONYM>
+  <DEF>toa idhini au kibali ili jambo fulani lipate kufanywa</DEF>
+  <CREATED>vomondi 2023-08-25 17:43:46</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-01617192-v</ID>
+  <BCS/>
+  <SNOTE>suffix(kiambishi tamati) = [~ia, ~ika, ~wa]]</SNOTE>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <USAGE>njaa ndyo iliyomsababisha akaiba</USAGE>
+  <STAMP>vomondi 2023-08-21 14:56:08</STAMP>
+  <DOMAIN/>
+  <VERSION>484</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">sababisha</LITERAL>
+    <LITERAL sense="1" lnote="">anzisha</LITERAL>
+    <WORD>sababisha</WORD>
+    <WORD>anzisha</WORD>
+  </SYNONYM>
+  <DEF>fanya kitu fulani kiwe na kitokee</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-00295701-n</ID>
+  <BCS/>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-21 16:00:06</STAMP>
+  <DOMAIN/>
+  <VERSION>501</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">safari</LITERAL>
+    <WORD>safari</WORD>
+  </SYNONYM>
+  <DEF>tendo la kwenda mahali fulani ambapo ni masafa na pale mtu alipo</DEF>
+  <CREATED>vomondi 2023-08-21 16:00:06</CREATED>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">sanaa</LITERAL>
+    <WORD>sanaa</WORD>
+  </SYNONYM>
+  <BCS/>
+  <POS>n</POS>
+  <ID>283</ID>
+  <DEF>ufundi wa kuwasilisha hisia na mawazo ya binadamu kwa maandishi, michoro, maigizo, nyimbo au uchongaji</DEF>
+  <STAMP>vomondi 2023-08-30 07:19:36</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>880</VERSION>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="2" lnote="">sanaa</LITERAL>
+    <WORD>sanaa</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-03129123-n</ILR>
+  <POS>n</POS>
+  <ID>eng-30-02743547-n</ID>
+  <DEF>zao linalotokana na ufundi huo</DEF>
+  <STAMP>vomondi 2023-08-30 07:24:24</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>884</VERSION>
+</SYNSET>
+<SYNSET>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">sanaa za maonyesho</LITERAL>
+    <WORD>sanaa</WORD>
+    <WORD>za</WORD>
+    <WORD>maonyesho</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">283</ILR>
+  <POS>n</POS>
+  <ID>286</ID>
+  <DEF>Hizi ni sanaa ambazo uzuri wake hujitokeza katika umbo la kudumu, umbo ambalo linaweza kuhifadhiwa, hivi kwamba uzuri wake ukaendelea kuonekana wakati wowote ule.</DEF>
+  <STAMP>vomondi 2023-08-30 07:38:51</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>889</VERSION>
+  <CREATED>vomondi 2023-08-30 07:38:51</CREATED>
+</SYNSET>
+<SYNSET>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">sanaa za vitendo</LITERAL>
+    <WORD>sanaa</WORD>
+    <WORD>za</WORD>
+    <WORD>vitendo</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">283</ILR>
+  <POS>n</POS>
+  <ID>287</ID>
+  <DEF>Uzuri wa sanaa hizi umo katika umbo la vitendo, hivyo ilimradi kuupata uzuri huo ni lazima kutazama vitendo vinavyofanyika.</DEF>
+  <STAMP>vomondi 2023-08-30 07:40:54</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>891</VERSION>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">sanamu</LITERAL>
+    <WORD>sanamu</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-04157320-n</ILR>
+  <POS>n</POS>
+  <ID>eng-30-04306847-n</ID>
+  <DEF>kitu kilichoundwa, kufinyangwa au kuchongwa katika umbo la viumbe</DEF>
+  <STAMP>vomondi 2023-08-30 08:24:00</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>896</VERSION>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (i-/i-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">sayansi</LITERAL>
+    <WORD>sayansi</WORD>
+  </SYNONYM>
+  <BCS/>
+  <POS>n</POS>
+  <ID>eng-30-05999797-n</ID>
+  <DEF>elimu inayotokana na uchunguzi, majaribio, vipimo na kuthibitishwa kwa muda uliopo</DEF>
+  <STAMP>vomondi 2023-08-29 20:13:06</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>813</VERSION>
+</SYNSET>
+<SYNSET>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">sayansi asili</LITERAL>
+    <WORD>sayansi</WORD>
+    <WORD>asili</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-05999797-n</ILR>
+  <POS>n</POS>
+  <ID>eng-30-06000400-n</ID>
+  <DEF>sayansi inayohusika na utafiti wa asili</DEF>
+  <STAMP>vomondi 2023-08-29 20:48:17</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>842</VERSION>
+</SYNSET>
+<SYNSET>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">sayansi dunia</LITERAL>
+    <WORD>sayansi</WORD>
+    <WORD>dunia</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-05999797-n</ILR>
+  <POS>n</POS>
+  <ID>272</ID>
+  <DEF>sayansi inayohusika na utafiti wa dunia</DEF>
+  <STAMP>vomondi 2023-08-29 20:49:35</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>843</VERSION>
+</SYNSET>
+<SYNSET>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">sayansi jamii</LITERAL>
+    <WORD>sayansi</WORD>
+    <WORD>jamii</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-05999797-n</ILR>
+  <POS>n</POS>
+  <ID>eng-30-06143154-n</ID>
+  <DEF>sayansi inayohusika na utafiti wa jamii</DEF>
+  <STAMP>vomondi 2023-08-29 20:39:25</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>836</VERSION>
+</SYNSET>
+<SYNSET>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">sayansi tumizi</LITERAL>
+    <WORD>sayansi</WORD>
+    <WORD>tumizi</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-05999797-n</ILR>
+  <POS>n</POS>
+  <ID>270</ID>
+  <DEF>sayansi inayohusika na utafiti kwa teknolojia na uhandisi</DEF>
+  <STAMP>vomondi 2023-08-29 20:54:27</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>846</VERSION>
+</SYNSET>
+<SYNSET>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">sayansi umbile</LITERAL>
+    <WORD>sayansi</WORD>
+    <WORD>umbile</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-05999797-n</ILR>
+  <POS>n</POS>
+  <ID>274</ID>
+  <DEF>sayansi inayohusika na utafiti ya maubile</DEF>
+  <STAMP>vomondi 2023-08-29 20:52:34</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>845</VERSION>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-03892891-n</ID>
+  <BCS/>
+  <ILR type="hypernym">eng-30-00002684-n</ILR>
+  <SNOTE>Ngeli(i-/zi-)</SNOTE>
+  <SNOTE>Ngeli(ki-/vi-) (vi-)</SNOTE>
+  <SNOTE>Ngeli(ki-/vi-) (vi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-26 20:19:48</STAMP>
+  <DOMAIN/>
+  <VERSION>680</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">sehemu</LITERAL>
+    <LITERAL sense="1" lnote="">kibendo</LITERAL>
+    <LITERAL sense="1" lnote="">kipingiti</LITERAL>
+    <WORD>sehemu</WORD>
+    <WORD>kibendo</WORD>
+    <WORD>kipingiti</WORD>
+  </SYNONYM>
+  <DEF>kiasi fulani cha kitu</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>205</ID>
+  <BCS/>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SNOTE>Ngeli (u-/u-)</SNOTE>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <USAGE>anakaa sehemu ya masharika ya mji huu</USAGE>
+  <STAMP>vomondi 2023-08-25 10:21:54</STAMP>
+  <DOMAIN/>
+  <VERSION>621</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="2" lnote="">sehemu</LITERAL>
+    <LITERAL sense="2" lnote="">upande</LITERAL>
+    <LITERAL sense="1" lnote="">faraka</LITERAL>
+    <WORD>sehemu</WORD>
+    <WORD>upande</WORD>
+    <WORD>faraka</WORD>
+  </SYNONYM>
+  <DEF>upande wa mahali k.v nchi au mji</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-01009240-v</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <USAGE>alisema ataenda soko kesho</USAGE>
+  <STAMP>vomondi 2023-08-25 16:37:41</STAMP>
+  <DOMAIN/>
+  <VERSION>642</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">sema</LITERAL>
+    <LITERAL sense="1" lnote="">nena</LITERAL>
+    <WORD>sema</WORD>
+    <WORD>nena</WORD>
+  </SYNONYM>
+  <DEF>tamka maneno</DEF>
+</SYNSET>
+<SYNSET>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="3" lnote="">seti</LITERAL>
+    <WORD>seti</WORD>
+  </SYNONYM>
+  <BCS/>
+  <POS>n</POS>
+  <ID>eng-30-07996689-n</ID>
+  <DEF>fungu la vifaa au vitu vya aina moja vinavyohusiana katika kukamilisha shughuli</DEF>
+  <STAMP>vomondi 2023-08-30 09:30:46</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>922</VERSION>
+</SYNSET>
+<SYNSET>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="2" lnote="">seti</LITERAL>
+    <WORD>seti</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-00002137-n</ILR>
+  <POS>n</POS>
+  <ID>eng-30-07999699-n</ID>
+  <DEF>mpango unaotumika katika hesabu kugawa vitu katika mafungu mbalimbali yanayofanana</DEF>
+  <STAMP>vomondi 2023-08-30 09:32:27</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>925</VERSION>
+</SYNSET>
+<SYNSET>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">seti</LITERAL>
+    <WORD>seti</WORD>
+  </SYNONYM>
+  <BCS/>
+  <POS>n</POS>
+  <ID>292</ID>
+  <DEF>karata ya kuchezea yenye nambari saba katika mchezo maalumu wa wahedi au sitini</DEF>
+  <STAMP>vomondi 2023-08-30 09:38:10</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>926</VERSION>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">sifa</LITERAL>
+    <LITERAL sense="1" lnote="">sifa ya kiasili</LITERAL>
+    <LITERAL sense="1" lnote="">hamdi</LITERAL>
+    <LITERAL sense="1" lnote="">hamdu</LITERAL>
+    <WORD>sifa</WORD>
+    <WORD>sifa</WORD>
+    <WORD>ya</WORD>
+    <WORD>kiasili</WORD>
+    <WORD>hamdi</WORD>
+    <WORD>hamdu</WORD>
+  </SYNONYM>
+  <USAGE>kila mgombea aeleze sifa zake</USAGE>
+  <BCS/>
+  <ILR type="hypernym">eng-30-00002137-n</ILR>
+  <POS>n</POS>
+  <ID>eng-30-00024264-n</ID>
+  <DEF>uzuri au ubaya wa mtu au kitu</DEF>
+  <STAMP>vomondi 2023-08-30 09:57:53</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>933</VERSION>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-00628491-v</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-25 16:24:23</STAMP>
+  <DOMAIN/>
+  <VERSION>636</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">tafakari</LITERAL>
+    <LITERAL sense="1" lnote="">waza</LITERAL>
+    <LITERAL sense="1" lnote="">zingatia</LITERAL>
+    <LITERAL sense="1" lnote="">taamali</LITERAL>
+    <WORD>tafakari</WORD>
+    <WORD>waza</WORD>
+    <WORD>zingatia</WORD>
+    <WORD>taamali</WORD>
+  </SYNONYM>
+  <DEF>fikiri jambo kwa makini</DEF>
+  <CREATED>vomondi 2023-08-25 16:24:23</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-07357388-n</ID>
+  <BCS/>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-21 10:06:25</STAMP>
+  <DOMAIN/>
+  <VERSION>424</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">tahafifu</LITERAL>
+    <WORD>tahafifu</WORD>
+  </SYNONYM>
+  <DEF/>
+  <CREATED>vomondi 2023-08-21 10:06:25</CREATED>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">takwimu</LITERAL>
+    <WORD>takwimu</WORD>
+  </SYNONYM>
+  <BCS/>
+  <POS>n</POS>
+  <ID>eng-30-06018465-n</ID>
+  <DEF/>
+  <STAMP>vomondi 2023-08-29 20:02:12</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>811</VERSION>
+</SYNSET>
+<SYNSET>
+  <ID>176</ID>
+  <BCS/>
+  <ILR type="hypernym">eng-30-05616246-n</ILR>
+  <SNOTE/>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <USAGE>huwezi kupigana naye huyo, si tani yako</USAGE>
+  <STAMP>vomondi 2023-08-24 12:54:14</STAMP>
+  <DOMAIN/>
+  <VERSION>559</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">tani</LITERAL>
+    <WORD>tani</WORD>
+  </SYNONYM>
+  <DEF>nguvu nyingi za mwili</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-00983824-v</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-21 15:16:44</STAMP>
+  <DOMAIN/>
+  <VERSION>488</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">toa sauti</LITERAL>
+    <WORD>toa</WORD>
+    <WORD>sauti</WORD>
+  </SYNONYM>
+  <DEF>toa sauti</DEF>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>tukio</WORD>
+    <LITERAL sense="1" lnote="">tukio</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (li-/ya-)</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-17 10:44:13</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-00029378-n</ID>
+  <DEF/>
+  <STAMP>vomondi 2023-08-17 10:44:13</STAMP>
+  <VERSION>372</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-01323958-v</ID>
+  <BCS/>
+  <SNOTE/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <USAGE>mtu huyo aliua watu kadhaa</USAGE>
+  <STAMP>vomondi 2023-08-21 15:47:05</STAMP>
+  <DOMAIN/>
+  <VERSION>498</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">ua</LITERAL>
+    <LITERAL sense="1" lnote="">fisha</LITERAL>
+    <LITERAL sense="1" lnote="">toa roho</LITERAL>
+    <WORD>ua</WORD>
+    <WORD>fisha</WORD>
+    <WORD>toa</WORD>
+    <WORD>roho</WORD>
+  </SYNONYM>
+  <DEF>toa roho ya kiumbe; toa duniani; ondoa uhai wa mtu au kitu</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-11669921-n</ID>
+  <BCS/>
+  <SNOTE>Ngeli (li-/yai-)</SNOTE>
+  <SNOTE>wingi (plural) - maua</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <USAGE>tumba lilichanua</USAGE>
+  <STAMP>vomondi 2023-08-21 15:35:37</STAMP>
+  <DOMAIN/>
+  <VERSION>492</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">ua</LITERAL>
+    <WORD>ua</WORD>
+  </SYNONYM>
+  <DEF>sehemu ya mmea inayochanua na agh. huwa ndiyo sehemu ya uzazi ya mmea</DEF>
+  <CREATED>vomondi 2023-08-21 15:35:37</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>161</ID>
+  <BCS/>
+  <SNOTE>Ngeli (u-/zi-)</SNOTE>
+  <SNOTE>wingi (plural) - nyua</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-21 15:39:03</STAMP>
+  <DOMAIN/>
+  <VERSION>493</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="2" lnote="">ua</LITERAL>
+    <WORD>ua</WORD>
+  </SYNONYM>
+  <DEF>mzunguko au boma lililofanywa kwa miti, mabati, makuiti, n.k agh. huwa nyuma ya nyumba</DEF>
+  <CREATED>vomondi 2023-08-21 15:39:03</CREATED>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (u-/u-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">uandishi</LITERAL>
+    <WORD>uandishi</WORD>
+  </SYNONYM>
+  <BCS/>
+  <POS>n</POS>
+  <ID>eng-30-06362953-n</ID>
+  <DEF>kazi ya kuandika</DEF>
+  <STAMP>vomondi 2023-08-27 08:59:19</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>729</VERSION>
+  <CREATED>vomondi 2023-08-27 08:59:19</CREATED>
+</SYNSET>
+<SYNSET>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">udhahania</LITERAL>
+    <WORD>udhahania</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-00001740-n</ILR>
+  <POS>n</POS>
+  <ID>eng-30-00002137-n</ID>
+  <DEF>wazo la jumla lililoundwa kwa kuchambua sifa za kawaida kutoka kwenye mifano maalum</DEF>
+  <STAMP>vomondi 2023-08-30 09:16:05</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>915</VERSION>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (u-/u-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">udongo</LITERAL>
+    <WORD>udongo</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-09334396-n</ILR>
+  <POS>n</POS>
+  <ID>258</ID>
+  <DEF>ardhi ya juu kwenye uso wa nchi ambapo agh. mimea huweza kuota</DEF>
+  <STAMP>vomondi 2023-08-27 21:18:00</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>784</VERSION>
+</SYNSET>
+<SYNSET>
+  <ID>181</ID>
+  <BCS/>
+  <ILR type="hypernym">eng-30-00031921-n</ILR>
+  <SNOTE>Ngeli (u-/u-)</SNOTE>
+  <SNOTE>Ngeli (u-/u-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-24 16:04:05</STAMP>
+  <DOMAIN/>
+  <VERSION>572</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">udugu</LITERAL>
+    <LITERAL sense="1" lnote="">ujamaa</LITERAL>
+    <WORD>udugu</WORD>
+    <WORD>ujamaa</WORD>
+  </SYNONYM>
+  <DEF>uhusiano kutokana na uzawa mmoja</DEF>
+  <CREATED>vomondi 2023-08-24 16:04:05</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-08680888-n</ID>
+  <BCS/>
+  <SNOTE>Ngeli (u-/u-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-25 09:36:21</STAMP>
+  <DOMAIN/>
+  <VERSION>610</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="2" lnote="">uelekeo</LITERAL>
+    <WORD>uelekeo</WORD>
+  </SYNONYM>
+  <DEF>upande kitu kinakotazama au kwenda</DEF>
+  <CREATED>vomondi 2023-08-25 09:36:21</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>198</ID>
+  <BCS/>
+  <SNOTE>Ngeli (u-/u-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-25 09:37:23</STAMP>
+  <DOMAIN/>
+  <VERSION>611</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="3" lnote="">uelekeo</LITERAL>
+    <WORD>uelekeo</WORD>
+  </SYNONYM>
+  <DEF>upande uliopendelewa</DEF>
+  <CREATED>vomondi 2023-08-25 09:37:23</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>196</ID>
+  <BCS/>
+  <SNOTE>Ngeli (u-/u-)</SNOTE>
+  <SNOTE>Ngeli (u-/u-)</SNOTE>
+  <SNOTE>Ngeli (u-/u-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-25 10:25:54</STAMP>
+  <DOMAIN/>
+  <VERSION>622</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">uelekeo</LITERAL>
+    <LITERAL sense="1" lnote="">upande</LITERAL>
+    <LITERAL sense="1" lnote="">welekeo</LITERAL>
+    <WORD>uelekeo</WORD>
+    <WORD>upande</WORD>
+    <WORD>welekeo</WORD>
+  </SYNONYM>
+  <DEF>upande unakoelekea kitu au jambo</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-00021939-n</ID>
+  <BCS/>
+  <SNOTE>Ngeli (u-/u-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-26 10:29:02</STAMP>
+  <DOMAIN/>
+  <VERSION>671</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">ughushi</LITERAL>
+    <WORD>ughushi</WORD>
+  </SYNONYM>
+  <DEF>kitu kilichobuniwa au utengenezaje wa vitu visivyo vya asili</DEF>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (u-/u-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">uhusiano</LITERAL>
+    <WORD>uhusiano</WORD>
+  </SYNONYM>
+  <BCS/>
+  <ILR type="hypernym">eng-30-00002137-n</ILR>
+  <POS>n</POS>
+  <ID>eng-30-00031921-n</ID>
+  <DEF>hali ya kuwa na ufungamano</DEF>
+  <STAMP>vomondi 2023-08-30 09:21:48</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>916</VERSION>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>ujumbe</WORD>
+    <LITERAL sense="2" lnote="">ujumbe</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (u-/u-)</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-17 08:34:24</CREATED>
+  <DOMAIN>fasihi</DOMAIN>
+  <SUMO type=""/>
+  <ID>107</ID>
+  <DEF>ujumbe ambao husaidia kuujenga au kuupa uzito zaidi ujumbe wa msingi</DEF>
+  <STAMP>vomondi 2023-08-17 08:34:24</STAMP>
+  <VERSION>349</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+  <ILR type="hypernym">105</ILR>
+  <ILR type="hypernym">103</ILR>
+  <ILR type="supportive/kuupa uzito">106</ILR>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>ujumbe</WORD>
+    <LITERAL sense="1" lnote="">ujumbe</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (u-/u-)</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-17 08:22:14</CREATED>
+  <DOMAIN>fasihi</DOMAIN>
+  <SUMO type=""/>
+  <ID>105</ID>
+  <DEF>mafunzo mbalimbali ambayo hupatikana baada ya kusoma kazi ya fasihi</DEF>
+  <STAMP>vomondi 2023-08-17 08:22:14</STAMP>
+  <VERSION>347</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+  <ILR type="hypernym">100</ILR>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>ujumbe</WORD>
+    <WORD>wa</WORD>
+    <WORD>msingi</WORD>
+    <LITERAL sense="1" lnote="">ujumbe wa msingi</LITERAL>
+  </SYNONYM>
+  <BCS/>
+  <CREATED>vomondi 2023-08-17 08:26:17</CREATED>
+  <DOMAIN>fasihi</DOMAIN>
+  <SUMO type=""/>
+  <ID>106</ID>
+  <DEF/>
+  <STAMP>vomondi 2023-08-17 08:26:17</STAMP>
+  <VERSION>348</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+  <ILR type="hypernym">102</ILR>
+  <ILR type="hypernym">105</ILR>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-05084201-n</ID>
+  <BCS/>
+  <SNOTE>Ngeli (u-/u-)</SNOTE>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SNOTE>Ngeli (ki-/)</SNOTE>
+  <SNOTE>Ngeli (ki-/)</SNOTE>
+  <SNOTE>Ngeli (ya-/ya-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-24 19:55:57</STAMP>
+  <DOMAIN/>
+  <VERSION>586</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">umbali</LITERAL>
+    <LITERAL sense="1" lnote="">mbali</LITERAL>
+    <LITERAL sense="2" lnote="">kitambo</LITERAL>
+    <LITERAL sense="1" lnote="">kitalifa</LITERAL>
+    <LITERAL sense="1" lnote="">masafa</LITERAL>
+    <WORD>umbali</WORD>
+    <WORD>mbali</WORD>
+    <WORD>kitambo</WORD>
+    <WORD>kitalifa</WORD>
+    <WORD>masafa</WORD>
+  </SYNONYM>
+  <DEF>kitambo cha kutoka mahili fulani hadi mahali pengine</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-04916342-n</ID>
+  <BCS/>
+  <SNOTE>Ngeli (li-/ya-) (maumbile)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-24 10:46:25</STAMP>
+  <DOMAIN/>
+  <VERSION>538</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">umbile</LITERAL>
+    <WORD>umbile</WORD>
+  </SYNONYM>
+  <DEF>jinsi kitu kilivyo; umbo au tabia ya kitu</DEF>
+  <CREATED>vomondi 2023-08-24 10:46:25</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-05849284-n</ID>
+  <BCS/>
+  <SNOTE>Ngeli (li-/ya-) (maumbo)</SNOTE>
+  <SNOTE>Ngeli (li-/ya-) (madutu)</SNOTE>
+  <SNOTE>Ngeli (li-/ya-) (majisimu)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-24 11:20:13</STAMP>
+  <DOMAIN/>
+  <VERSION>549</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="2" lnote="">umbo</LITERAL>
+    <LITERAL sense="1" lnote="">dutu</LITERAL>
+    <LITERAL sense="2" lnote="">jisimu</LITERAL>
+    <WORD>umbo</WORD>
+    <WORD>dutu</WORD>
+    <WORD>jisimu</WORD>
+  </SYNONYM>
+  <DEF>mkao wa kitu kilivyoumbwa au kilivyoundwa</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-01621555-v</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-21 14:43:52</STAMP>
+  <DOMAIN/>
+  <VERSION>478</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">unda</LITERAL>
+    <WORD>unda</WORD>
+  </SYNONYM>
+  <DEF>fanyiza, tengeneza au jenga hasa kitu cha mbao au chuma</DEF>
+  <CREATED>vomondi 2023-08-21 14:43:52</CREATED>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (u-/u-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">usahaulifu</LITERAL>
+    <WORD>usahaulifu</WORD>
+  </SYNONYM>
+  <BCS/>
+  <POS>n</POS>
+  <ID>eng-30-05700625-n</ID>
+  <DEF>hali ya kushughulika na kuacha kuzingatia mengine</DEF>
+  <STAMP>vomondi 2023-08-30 08:33:25</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>900</VERSION>
+</SYNSET>
+<SYNSET>
+  <SNOTE/>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">uso</LITERAL>
+    <WORD>uso</WORD>
+  </SYNONYM>
+  <USAGE>uso wa dunia</USAGE>
+  <BCS/>
+  <POS>n</POS>
+  <ID>261</ID>
+  <DEF>sehemu ya mbele au juu ya kitu</DEF>
+  <STAMP>vomondi 2023-08-27 21:44:52</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>792</VERSION>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-03122748-n</ID>
+  <BCS/>
+  <ILR type="hypernym">eng-30-00021939-n</ILR>
+  <SNOTE>Ngeli (u-/u-) (utando)</SNOTE>
+  <SNOTE>Ngeli(ki-/vi-) (viwambo)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-22 08:51:41</STAMP>
+  <DOMAIN/>
+  <VERSION>517</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">utando</LITERAL>
+    <LITERAL sense="1" lnote="">kiwambo</LITERAL>
+    <WORD>utando</WORD>
+    <WORD>kiwambo</WORD>
+  </SYNONYM>
+  <DEF>chochote kinachofunika kitu kingine</DEF>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>utando</WORD>
+    <LITERAL sense="2" lnote="">utando</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (u-)</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-15 11:28:53</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>67</ID>
+  <DEF>kitanda cha buibui</DEF>
+  <STAMP>vomondi 2023-08-15 11:28:53</STAMP>
+  <VERSION>150</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+<SYNSET>
+  <SNOTE>Ngeli (u-/u-)</SNOTE>
+  <DOMAIN/>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">utoaji</LITERAL>
+    <WORD>utoaji</WORD>
+  </SYNONYM>
+  <BCS/>
+  <POS>n</POS>
+  <ID>eng-30-00392848-n</ID>
+  <DEF>namna au tendo la kutoa</DEF>
+  <STAMP>vomondi 2023-08-30 08:37:08</STAMP>
+  <SUMO type=""/>
+  <NL>false</NL>
+  <VERSION>904</VERSION>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-05616246-n</ID>
+  <BCS/>
+  <SNOTE>Ngeli (u-/u-)</SNOTE>
+  <SNOTE>Ngeli (i-/zi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-24 12:43:46</STAMP>
+  <DOMAIN/>
+  <VERSION>553</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">uwezo</LITERAL>
+    <LITERAL sense="1" lnote="">satua</LITERAL>
+    <WORD>uwezo</WORD>
+    <WORD>satua</WORD>
+  </SYNONYM>
+  <DEF>hali ya kuweza kufanya jambo</DEF>
+  <CREATED>vomondi 2023-08-24 12:43:46</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-04773596-n</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-21 16:19:53</STAMP>
+  <DOMAIN/>
+  <VERSION>508</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">uwezo wa kwenda</LITERAL>
+    <LITERAL sense="3" lnote="">mwendo</LITERAL>
+    <WORD>uwezo</WORD>
+    <WORD>wa</WORD>
+    <WORD>kwenda</WORD>
+    <WORD>mwendo</WORD>
+  </SYNONYM>
+  <DEF>uwezo wa kwenda</DEF>
+  <CREATED>vomondi 2023-08-21 16:19:53</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-13819207-n</ID>
+  <BCS/>
+  <SNOTE>Ngeli (u-/u-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-24 16:19:09</STAMP>
+  <DOMAIN/>
+  <VERSION>573</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">uwiano</LITERAL>
+    <WORD>uwiano</WORD>
+  </SYNONYM>
+  <DEF>uhusiano wa kiasi kati ya kiasi mbili kinachoonyesha idadi ya mara thamani moja ina au iliyomo ndani ya nyingine.</DEF>
+  <CREATED>vomondi 2023-08-24 16:19:09</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-03419014-n</ID>
+  <BCS/>
+  <ILR type="hypernym">eng-30-03051540-n</ILR>
+  <SNOTE>Ngeli (li-/ya-) (mavazi)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-22 08:56:43</STAMP>
+  <DOMAIN/>
+  <VERSION>520</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="2" lnote="">vazi</LITERAL>
+    <WORD>vazi</WORD>
+  </SYNONYM>
+  <DEF>kitu kinachotumika kuvaa mwilini</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-02203362-v</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <USAGE>kuwa na mkono mrefu</USAGE>
+  <USAGE>Juma amekuwa mwembamba</USAGE>
+  <STAMP>vomondi 2023-08-24 19:01:53</STAMP>
+  <DOMAIN/>
+  <VERSION>576</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">wa na</LITERAL>
+    <WORD>wa</WORD>
+    <WORD>na</WORD>
+  </SYNONYM>
+  <DEF/>
+  <CREATED>vomondi 2023-08-24 19:01:53</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-00007347-n</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-26 20:58:44</STAMP>
+  <DOMAIN/>
+  <VERSION>696</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">wakala wa sababu</LITERAL>
+    <WORD>wakala</WORD>
+    <WORD>wa</WORD>
+    <WORD>sababu</WORD>
+  </SYNONYM>
+  <DEF>Kitu chochote kinachosababisha athari au kinachohusika na matukio au matokeo</DEF>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-00028270-n</ID>
+  <BCS/>
+  <SNOTE>Ngeli (u-/zi-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <STAMP>vomondi 2023-08-25 11:06:24</STAMP>
+  <DOMAIN/>
+  <VERSION>629</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">wakati</LITERAL>
+    <WORD>wakati</WORD>
+  </SYNONYM>
+  <DEF>ni neno la kutaja ama mfuatano wa matokeo au muda ama kipindi ambamo jambo linatokea</DEF>
+  <CREATED>vomondi 2023-08-25 11:06:24</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>eng-30-00988028-v</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-21 15:25:21</STAMP>
+  <DOMAIN/>
+  <VERSION>489</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">wakilisha</LITERAL>
+    <WORD>wakilisha</WORD>
+  </SYNONYM>
+  <DEF/>
+  <CREATED>vomondi 2023-08-21 15:25:21</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>208</ID>
+  <BCS/>
+  <ILR type="hypernym">206</ILR>
+  <SNOTE>Ngeli (u-/u-)</SNOTE>
+  <SUMO type=""/>
+  <POS>n</POS>
+  <USAGE>sina wasaa wa kufanya jambo jingine lolote</USAGE>
+  <STAMP>vomondi 2023-08-25 10:52:25</STAMP>
+  <DOMAIN/>
+  <VERSION>625</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">wasaa</LITERAL>
+    <WORD>wasaa</WORD>
+  </SYNONYM>
+  <DEF>nafasi ya wakati anayokuwa nayo mtu</DEF>
+  <CREATED>vomondi 2023-08-25 10:52:25</CREATED>
+</SYNSET>
+<SYNSET>
+  <ID>218</ID>
+  <BCS/>
+  <SUMO type=""/>
+  <POS>v</POS>
+  <STAMP>vomondi 2023-08-25 17:32:27</STAMP>
+  <DOMAIN/>
+  <VERSION>651</VERSION>
+  <NL>false</NL>
+  <SYNONYM>
+    <LITERAL sense="1" lnote="">wasiliana</LITERAL>
+    <WORD>wasiliana</WORD>
+  </SYNONYM>
+  <DEF>toa na pokea habari toka kwa mtu au watu juu ya jambo fulani</DEF>
+  <CREATED>vomondi 2023-08-25 17:32:27</CREATED>
+</SYNSET>
+<SYNSET>
+  <SYNONYM>
+    <WORD>wazo</WORD>
+    <LITERAL sense="1" lnote="">wazo</LITERAL>
+  </SYNONYM>
+  <SNOTE>Ngeli (li-/ya-)</SNOTE>
+  <SNOTE>wingi (plural) - mawazo</SNOTE>
+  <BCS/>
+  <CREATED>vomondi 2023-08-17 08:58:16</CREATED>
+  <DOMAIN/>
+  <SUMO type=""/>
+  <ID>eng-30-05833840-n</ID>
+  <DEF>tukio la akilini</DEF>
+  <STAMP>vomondi 2023-08-17 08:58:16</STAMP>
+  <VERSION>354</VERSION>
+  <NL>false</NL>
+  <POS>n</POS>
+</SYNSET>
+</vomondi_wn_sw>
